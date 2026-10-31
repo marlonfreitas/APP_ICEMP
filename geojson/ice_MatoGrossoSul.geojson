@@ -1,0 +1,46 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Mato Grosso do Sul (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-54.5992, -20.4478]
+},
+"properties": {
+"nome": "ICE Carandá do Bosque (Monte Castelo)",
+"cidade": "Campo Grande",
+"bairro": "Monte Castelo",
+"estado": "MS",
+"endereco": "Av. Monte Castelo, 112 — Monte Castelo",
+"cep": "79011-541",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-54.6432, -20.4619]
+},
+"properties": {
+"nome": "ICE Campo Grande",
+"cidade": "Campo Grande",
+"bairro": "Santo Antônio",
+"estado": "MS",
+"endereco": "Rua Evaristo de Moraes, 257 — Santo Antônio",
+"cep": "79100-360",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+}
+]
+}

@@ -1,0 +1,92 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Minas Gerais (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.1963, -18.6432]
+},
+"properties": {
+"nome": "ICE Araguari",
+"cidade": "Araguari",
+"estado": "MG",
+"endereco": "Rua das Araras, 151",
+"cep": "38443-084",
+"mear": "MEAR Centro Sul",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-43.9934, -19.9078]
+},
+"properties": {
+"nome": "ICE Jardim das Oliveiras",
+"cidade": "Belo Horizonte",
+"estado": "MG",
+"endereco": "Rua Alípio de Melo, 774",
+"cep": "30750-010",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.9925, -20.9168]
+},
+"properties": {
+"nome": "ICE São Sebastião do Paraíso",
+"cidade": "São Sebastião do Paraíso",
+"estado": "MG",
+"endereco": "Rua Oliveira Rezende, 955",
+"cep": "37950-000",
+"mear": "MEAR Centro Sul",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.2541, -18.9387]
+},
+"properties": {
+"nome": "ICE Uberlândia",
+"cidade": "Uberlândia",
+"estado": "MG",
+"endereco": "Rua Manoel Serralha, 485, Lb A, Apto 2 — Bairro Patrimônio / Santa Mônica",
+"cep": "38408-246",
+"mear": "MEAR Centro Sul",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-43.9214, -19.6912]
+},
+"properties": {
+"nome": "ICE Vespasiano",
+"cidade": "Vespasiano",
+"estado": "MG",
+"endereco": "Avenida das Nascentes, 699",
+"cep": "33200-000",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+}
+]
+}

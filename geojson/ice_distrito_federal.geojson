@@ -1,0 +1,369 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Distrito Federal (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.0289, -15.8360]
+},
+"properties": {
+"nome": "ICE Águas Claras",
+"cidade": "Brasília",
+"regiao_administrativa": "Águas Claras",
+"estado": "DF",
+"endereco": "Quadra 301, Rua D, Conjunto 2",
+"cep": "71901-110",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.8825, -15.7725]
+},
+"properties": {
+"nome": "ICE Brasília",
+"cidade": "Brasília",
+"regiao_administrativa": "Plano Piloto (Asa Norte)",
+"estado": "DF",
+"endereco": "EQN 309/310, Área Especial A",
+"cep": "70310-500",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.7958, -15.6321]
+},
+"properties": {
+"nome": "ICE Resgate",
+"cidade": "Brasília",
+"regiao_administrativa": "Sobradinho II / Morada da Serra",
+"estado": "DF",
+"endereco": "QMS 55-A, Lt 5 e 60, Conj. Morada da Serra",
+"cep": "73080-100",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.1153, -15.8122]
+},
+"properties": {
+"nome": "ICE Ceilândia",
+"cidade": "Ceilândia",
+"regiao_administrativa": "Ceilândia Norte",
+"estado": "DF",
+"endereco": "EQNM 18-20, Módulo A",
+"cep": "72210-550",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.1285, -15.8284]
+},
+"properties": {
+"nome": "ICE Manancial",
+"cidade": "Ceilândia",
+"regiao_administrativa": "Ceilândia Sul",
+"estado": "DF",
+"endereco": "EQNP 14-18, Área Especial 01",
+"cep": "72215-180",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.1214, -15.7989]
+},
+"properties": {
+"nome": "ICE Nova Vida",
+"cidade": "Ceilândia",
+"regiao_administrativa": "Ceilândia Norte",
+"estado": "DF",
+"endereco": "QNO 13, Conj. P, Lt. 15",
+"cep": "72215-130",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.0264, -15.9922]
+},
+"properties": {
+"nome": "ICE Gama",
+"cidade": "Gama",
+"regiao_administrativa": "Gama",
+"estado": "DF",
+"endereco": "Área Especial 11/15, Setor Central",
+"cep": "72425-111",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.8182, -15.8645]
+},
+"properties": {
+"nome": "ICE Jardins Brasília",
+"cidade": "Brasília",
+"regiao_administrativa": "Jardim Botânico",
+"estado": "DF",
+"endereco": "SH Jardim Botânico, Cond. Estância Jardim Botânico II",
+"cep": "70297-400",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.9624, -16.0821]
+},
+"properties": {
+"nome": "ICE Monte Serrat",
+"cidade": "Monte Serrat",
+"regiao_administrativa": "Entorno DF",
+"estado": "GO",
+"endereco": "Quadra 12, Lote 32",
+"cep": "72863-000",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.9698, -15.8712]
+},
+"properties": {
+"nome": "ICE Núcleo Bandeirante",
+"cidade": "Núcleo Bandeirante",
+"regiao_administrativa": "Núcleo Bandeirante",
+"estado": "DF",
+"endereco": "3ª Avenida, Área Especial 05, Módulo L",
+"cep": "71705-050",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.6189, -15.4521]
+},
+"properties": {
+"nome": "ICE Planaltina",
+"cidade": "Planaltina-GO",
+"regiao_administrativa": "Entorno DF",
+"estado": "GO",
+"endereco": "QD 15, LT 1 e 2, Setor Norte",
+"cep": "73750-000",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.0682, -15.9084]
+},
+"properties": {
+"nome": "ICE Recanto das Emas",
+"cidade": "Recanto das Emas",
+"regiao_administrativa": "Recanto das Emas",
+"estado": "DF",
+"endereco": "Qd 112-A/E 01, Avenida Vargem da Benção",
+"cep": "72601-100",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.0489, -15.8795]
+},
+"properties": {
+"nome": "ICE Betesda",
+"cidade": "Brasília",
+"regiao_administrativa": "Samambaia Sul",
+"estado": "DF",
+"endereco": "QS 122, Conjunto 9",
+"cep": "72320-560",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.0912, -15.8856]
+},
+"properties": {
+"nome": "ICE Novo Tempo",
+"cidade": "Samambaia",
+"regiao_administrativa": "Samambaia Sul",
+"estado": "DF",
+"endereco": "QS 614, Conj. B, Lt. 01",
+"cep": "72305-140",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.0725, -15.8641]
+},
+"properties": {
+"nome": "ICE Samambaia",
+"cidade": "Samambaia",
+"regiao_administrativa": "Samambaia Norte",
+"estado": "DF",
+"endereco": "QN 319, Conj. 7, Lt. 01",
+"cep": "72360-195",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.0845, -15.8582]
+},
+"properties": {
+"nome": "ICE Shalon",
+"cidade": "Samambaia",
+"regiao_administrativa": "Samambaia Norte",
+"estado": "DF",
+"endereco": "QN 501, Conj. 08, Lt. 8",
+"cep": "72350-010",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.7842, -15.6511]
+},
+"properties": {
+"nome": "ICE Sobradinho",
+"cidade": "Sobradinho",
+"regiao_administrativa": "Sobradinho",
+"estado": "DF",
+"endereco": "Quadra 10, Área Especial 01",
+"cep": "73005-100",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.0645, -15.8234]
+},
+"properties": {
+"nome": "ICE Betel",
+"cidade": "Taguatinga",
+"regiao_administrativa": "Taguatinga Norte",
+"estado": "DF",
+"endereco": "QNB 16, Área Especial 01",
+"cep": "72115-160",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.0812, -15.8118]
+},
+"properties": {
+"nome": "ICE Boas Novas",
+"cidade": "Taguatinga",
+"regiao_administrativa": "Taguatinga Norte",
+"estado": "DF",
+"endereco": "EQNL 13-15, Área Especial 02",
+"cep": "72150-135",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.8385, -15.6989]
+},
+"properties": {
+"nome": "ICE Videira",
+"cidade": "Brasília",
+"regiao_administrativa": "Taquari (Lago Norte)",
+"estado": "DF",
+"endereco": "Trecho 01, Avenida Comercial nº 10, Sala 102",
+"cep": "71551-010",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.0421, -15.8015]
+},
+"properties": {
+"nome": "ICE Vicente Pires",
+"cidade": "Vicente Pires",
+"regiao_administrativa": "Vicente Pires",
+"estado": "DF",
+"endereco": "Rua 04a, Ch. 111, Conj. 03, Lt. 01, Loja 01",
+"cep": "72006-220",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+}
+]
+}

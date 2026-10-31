@@ -1,0 +1,46 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Rio Grande do Sul (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-53.5976, -27.3621]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Palmitinho",
+"cidade": "Palmitinho",
+"bairro": "Centro",
+"estado": "RS",
+"endereco": "Rua Rio Branco, Nº 640, Sala 01 — Centro",
+"cep": "98430-000",
+"mear": "Microrregião Sul / MEAR Sudoeste",
+"tipo": "Congregação / Em Plantação"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-53.6425, -27.6582]
+},
+"properties": {
+"nome": "Congregação Redentora",
+"cidade": "Redentora",
+"bairro": "Centro",
+"estado": "RS",
+"endereco": "Área Central — Redentora",
+"cep": "98550-000",
+"mear": "Microrregião Sul / MEAR Sudoeste",
+"tipo": "Congregação Local"
+}
+}
+]
+}

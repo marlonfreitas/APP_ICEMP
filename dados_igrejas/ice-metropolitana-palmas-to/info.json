@@ -1,0 +1,704 @@
+{
+  "id": "igreja-crista-evangelica-metropolitana-de-palmas-palmas-to",
+  "name": "Igreja Cristã Evangélica Metropolitana de Palmas",
+  "city": "Palmas",
+  "uf": "TO",
+  "neighborhood": "Plano Diretor Sul",
+  "address": "Conj. 01 - Q. 201 Sul, Av. Joaquim Teotônio Segurado, Lote 04 - Plano Diretor Sul, Palmas - TO",
+  "cep": "77015-200",
+  "lat": -10.19657993392493,
+  "lng": -48.33424718399854,
+  "phone": "(63) 99991-0330",
+  "whatsapp": "5563999910330",
+  "email": "icempalmas2009@gmail.com",
+  "instagram": "@ice.metropolitana",
+  "website": "https://icemetropolitana.com.br/",
+  "cnpj": "10.900.748/0001-02",
+  "pixKey": "10900748000102",
+  "pixType": "CNPJ",
+  "pixBeneficiary": "Igreja Cristã Evangélica Metropolitana de Palmas",
+  "pastorTitle": "Pr. Titular Ubiracy Lucas Barbosa",
+  "pastorRole": "Pastor Titular da Comunidade",
+  "pastorSpouse": "Adriana Lucas",
+  "pastorPhoto": "assets/PR_Ubiracy_lucas.png",
+  "pastorBio": "Servo de Deus à frente da Igreja Cristã Evangélica Metropolitana de Palmas em Palmas - TO, dedicado à pregação bíblica e acolhimento pastoral.",
+  "pastorAuxiliar": {
+    "name": "Pr. Raimundo Brindeiro",
+    "role": "Pastor Auxiliar",
+    "spouse": "Jacilene Sales",
+    "bio": "Pastor auxiliar dedicado ao pastoreio, ensino bíblico, discipulado e visitação pastoral.",
+    "photo": "assets/PR_Raimundo_Brindeiro.png"
+  },
+  "schedule": [
+    {
+      "day": "DOM",
+      "dayFull": "Domingo",
+      "time": "07h00",
+      "title": "Oração Matutina",
+      "badge": "Oração",
+      "desc": "Clamor e comunhão matinal na presença de Deus."
+    },
+    {
+      "day": "DOM",
+      "dayFull": "Domingo",
+      "time": "18h00",
+      "title": "Escola Bíblica Dominical (EBD)",
+      "badge": "Ensino",
+      "desc": "Estudo temático das Escrituras em classes formativas para todas as idades."
+    },
+    {
+      "day": "DOM",
+      "dayFull": "Domingo",
+      "time": "19h00",
+      "title": "Culto de Celebração",
+      "badge": "Adoração",
+      "desc": "Culto solene de louvor, adoração comunitária e pregação expositiva da Palavra."
+    },
+    {
+      "day": "TER",
+      "dayFull": "Terça-feira",
+      "time": "06h30",
+      "title": "Oração Matutina",
+      "badge": "Oração",
+      "desc": "Busca ao Senhor no romper do dia e intercessão congregacional."
+    },
+    {
+      "day": "QUI",
+      "dayFull": "Quinta-feira",
+      "time": "19h30",
+      "title": "Culto de Oração",
+      "badge": "Oração",
+      "desc": "Reunião de oração, estudo bíblico e fortalecimento espiritual da comunidade."
+    }
+  ],
+  "monthlyAgenda": {
+    "month": "Outubro",
+    "year": "2026",
+    "events": [
+      {
+        "day": "02",
+        "dayOfWeek": "Quarta-feira",
+        "title": "Sexualidade e Rotina do Lar",
+        "time": "19h30",
+        "location": "Igreja - ICEM",
+        "target": "Homens + Mulheres",
+        "badge": "Família",
+        "desc": "Encontro especial sobre edificação conjugal, sexualidade bíblica e harmonia no lar."
+      },
+      {
+        "day": "02",
+        "dayOfWeek": "Quarta-feira",
+        "title": "Encontro dos Adolescentes",
+        "time": "19h30",
+        "location": "Parque dos Povos Indígenas",
+        "target": "Adolescentes",
+        "badge": "Adolescentes",
+        "desc": "Comunhão ao ar livre e dinamismo cristão no Parque dos Povos Indígenas."
+      },
+      {
+        "day": "03",
+        "dayOfWeek": "Quinta-feira",
+        "title": "Culto de Jovens (Juventude ICEM-JUMP)",
+        "time": "20h00",
+        "location": "Igreja - ICEM",
+        "target": "Juventude ICEM-JUMP",
+        "badge": "Jovens",
+        "desc": "Noite de adoração, comunhão e palavra transformadora com a mocidade."
+      },
+      {
+        "day": "04",
+        "dayOfWeek": "Sexta-feira",
+        "title": "Provérbios com Café",
+        "time": "07h30",
+        "location": "Igreja - ICEM",
+        "target": "Congregação",
+        "badge": "Estudo Bíblico",
+        "desc": "Café da manhã comunitário seguido de reflexão profunda no livro de Provérbios."
+      },
+      {
+        "day": "09",
+        "dayOfWeek": "Quarta-feira",
+        "title": "Tarde com Adolescentes",
+        "time": "14h00",
+        "location": "Casa da Marianne",
+        "target": "Adolescentes",
+        "badge": "Adolescentes",
+        "desc": "Tarde de edificação, brincadeiras e comunhão na residência da Marianne."
+      },
+      {
+        "day": "12",
+        "dayOfWeek": "Sábado",
+        "title": "Especial Dia das Crianças",
+        "time": "Horário Especial",
+        "location": "Igreja - ICEM",
+        "target": "Crianças",
+        "badge": "Infantil",
+        "desc": "Celebração do Dia das Crianças com brincadeiras, lanche especial e mensagem bíblica infantil."
+      },
+      {
+        "day": "16",
+        "dayOfWeek": "Quarta-feira",
+        "title": "Palavra com o Seminarista Ian Levi",
+        "time": "19h30",
+        "location": "Igreja - ICEM",
+        "target": "Adolescentes",
+        "badge": "Adolescentes",
+        "desc": "Ministração bíblica inspiradora para os adolescentes com o seminarista Ian Levi."
+      },
+      {
+        "day": "17",
+        "dayOfWeek": "Quinta-feira",
+        "title": "Treinamento com Spray de Defesa Pessoal para Mulheres",
+        "time": "17h00",
+        "location": "Igreja - ICEM",
+        "target": "Mulheres",
+        "badge": "Mulheres",
+        "desc": "Capacitação prática em segurança pessoal e manuseio preventivo de spray de defesa."
+      },
+      {
+        "day": "17",
+        "dayOfWeek": "Quinta-feira",
+        "title": "Culto de Jovens (Juventude ICEM-JUMP)",
+        "time": "20h00",
+        "location": "Igreja - ICEM",
+        "target": "Juventude ICEM-JUMP",
+        "badge": "Jovens",
+        "desc": "Culto jovem vibrante com adoração, testemunhos e pregação bíblica."
+      },
+      {
+        "day": "23",
+        "dayOfWeek": "Quarta-feira",
+        "title": "Encontro de Adolescentes",
+        "time": "19h30",
+        "location": "Casa do Ottávio",
+        "target": "Adolescentes",
+        "badge": "Adolescentes",
+        "desc": "Reunião de comunhão, oração e dinâmicas na casa do Ottávio."
+      },
+      {
+        "day": "24",
+        "dayOfWeek": "Quinta-feira",
+        "title": "Culto de Jovens (Juventude ICEM-JUMP)",
+        "time": "20h00",
+        "location": "Igreja - ICEM",
+        "target": "Juventude ICEM-JUMP",
+        "badge": "Jovens",
+        "desc": "Reunião semanal da juventude para fortalecimento na caminhada com Cristo."
+      },
+      {
+        "id": "ev_hoje_30_out",
+        "day": "30",
+        "dayOfWeek": "Sexta-feira",
+        "title": "Culto Especial & Clamor da Família",
+        "time": "20h00",
+        "location": "Templo Principal - ICEMP",
+        "target": "Toda a congregação e visitantes",
+        "badge": "Geral",
+        "desc": "Culto especial hoje às 20h00! Momento marcante de louvor congregacional e intercessão pelas famílias e jovens."
+      },
+      {
+        "day": "31",
+        "dayOfWeek": "Quinta-feira",
+        "title": "Vigília de Oração + Acampadentro",
+        "time": "20h30",
+        "location": "Igreja - ICEM",
+        "target": "Adolescentes",
+        "badge": "Adolescentes",
+        "desc": "Noite marcante de intercessão profunda, louvor e acampadentro no templo."
+      },
+      {
+        "day": "31",
+        "dayOfWeek": "Quinta-feira",
+        "title": "Culto de Jovens (Juventude ICEM-JUMP)",
+        "time": "20h00",
+        "location": "Igreja - ICEM",
+        "target": "Juventude ICEM-JUMP",
+        "badge": "Jovens",
+        "desc": "Último culto de jovens de outubro celebrando a fidelidade do Senhor."
+      }
+    ]
+  },
+  "birthdays": {
+    "month": "Outubro",
+    "verse": "Deem graças em todas as circunstâncias, pois esta é a vontade de Deus para vocês em Cristo Jesus.",
+    "reference": "1 Tessalonicenses 5:18",
+    "list": [
+      { "day": "02", "name": "Jocsan de Lima Santos" },
+      { "day": "02", "name": "Laila Gisele de Oliveira Carvalho Cavalcante" },
+      { "day": "02", "name": "Renata Barbosa Moura Zanetti" },
+      { "day": "04", "name": "Francisca Coelho de Souza Soares" },
+      { "day": "06", "name": "Ottávio Ruvina Oliveira" },
+      { "day": "07", "name": "João Victor Santos Sales" },
+      { "day": "11", "name": "Vinícius Lira" },
+      { "day": "12", "name": "Jeferson Pereira de Menezes" },
+      { "day": "13", "name": "Maria Luiza Carvalho Cavalcante" },
+      { "day": "14", "name": "Benízia Paz Vaz" },
+      { "day": "14", "name": "Jefferson de Oliveira Pereira" },
+      { "day": "22", "name": "Leandro Rodrigues Viana" },
+      { "day": "27", "name": "Hiago César Rodrigues Santos" },
+      { "day": "29", "name": "Helena Canoli Chaves" }
+    ]
+  },
+  "ebd": {
+    "schedule": "Todo Domingo às 18h",
+    "classes": [
+      {
+        "id": "adultos",
+        "name": "Adultos",
+        "leader": "Jocélio Santos",
+        "teachers": [
+          "Ubiracy Lucas",
+          "Raimundo Brindeiro",
+          "Deyvid Carvalho",
+          "Valtoir Moreira",
+          "Jocélio Santos",
+          "Antônio de Deus",
+          "Alex Vilarindo",
+          "Susana Aguiar",
+          "Jonas Júnior"
+        ]
+      },
+      {
+        "id": "jovens",
+        "name": "Jovens",
+        "leader": "Leandro Rodrigues",
+        "teachers": [
+          "Leandro Rodrigues",
+          "Jonas Júnior"
+        ]
+      },
+      {
+        "id": "adolescentes",
+        "name": "Adolescentes",
+        "leader": "Laila Gisele",
+        "teachers": [
+          "Laila Gisele",
+          "Deyvid Carvalho",
+          "Luiz Pierre",
+          "Iegle Perez",
+          "Daniel Arruda"
+        ]
+      },
+      {
+        "id": "juniores",
+        "name": "Juniores",
+        "leader": "Equipe de Juniores",
+        "teachers": [
+          "Lorrane Dias",
+          "Alessia Moreira",
+          "Francisca Coelho",
+          "Laila Gisele"
+        ]
+      },
+      {
+        "id": "primario",
+        "name": "Primário",
+        "leader": "Equipe de Primário",
+        "teachers": [
+          "Raíssa Vilarindo",
+          "Milena Negreiro",
+          "Weudds Souza"
+        ]
+      },
+      {
+        "id": "pre_primario",
+        "name": "Pré-Primário",
+        "leader": "Equipe de Pré-Primário",
+        "teachers": [
+          "Adriana Lucas",
+          "Maria Isadora Resplandes"
+        ]
+      }
+    ]
+  },
+  "growthGroups": [
+    {
+      "name": "Heróis da Fé",
+      "day": "Segunda-feira",
+      "dayOfWeek": "Segunda-feira",
+      "dayTime": "Segunda • 19h30",
+      "time": "19h30",
+      "leaders": "Valtoir Moreira e Tânia Alves",
+      "host": "Lares dos Membros",
+      "focus": "Comunhão nos lares, edificação bíblica e intercessão familiar."
+    },
+    {
+      "name": "Filadélfia",
+      "day": "Segunda-feira",
+      "dayOfWeek": "Segunda-feira",
+      "dayTime": "Segunda • 20h00",
+      "time": "20h00",
+      "leaders": "Alex Vilarindo e Raissa Vilarindo",
+      "host": "Lares dos Membros",
+      "focus": "Amor fraternal, discipulado cristão e crescimento na Palavra."
+    },
+    {
+      "name": "Filhos do Rei",
+      "day": "Terça-feira",
+      "dayOfWeek": "Terça-feira",
+      "dayTime": "Terça • 19h00",
+      "time": "19h00",
+      "leaders": "João Batista Borges e Edna Borges",
+      "host": "Lares dos Membros",
+      "focus": "Vida cristã vitoriosa, discipulado e acolhimento familiar."
+    },
+    {
+      "name": "Ágape",
+      "day": "Terça-feira",
+      "dayOfWeek": "Terça-feira",
+      "dayTime": "Terça • 20h00",
+      "time": "20h00",
+      "leaders": "Liderança ICEM",
+      "host": "Lares dos Membros",
+      "focus": "Amor incondicional de Cristo, fortalecimento mútuo e acolhimento."
+    },
+    {
+      "name": "Unidos pela Graça",
+      "day": "Terça-feira",
+      "dayOfWeek": "Terça-feira",
+      "dayTime": "Terça • 19h30",
+      "time": "19h30",
+      "leaders": "Bento Leandro Sousa e Lúzimar Carreiro",
+      "host": "Lares dos Membros",
+      "focus": "Crescimento espiritual fundamentado na abundante graça divina."
+    },
+    {
+      "name": "Hebrom",
+      "day": "Terça-feira",
+      "dayOfWeek": "Terça-feira",
+      "dayTime": "Terça • 19h30",
+      "time": "19h30",
+      "leaders": "Luiz Augusto Carreiro",
+      "host": "Lares dos Membros",
+      "focus": "Aliança bíblica, comunhão profunda e oração fervorosa."
+    },
+    {
+      "name": "Maranata",
+      "day": "Terça-feira",
+      "dayOfWeek": "Terça-feira",
+      "dayTime": "Terça • 19h30",
+      "time": "19h30",
+      "leaders": "Pr. Raimundo Brindeiro e Jacilene Sales",
+      "host": "Lares dos Membros",
+      "focus": "Esperança da volta de Cristo, oração pastoral e consagração."
+    },
+    {
+      "name": "106 Norte",
+      "day": "Quarta-feira",
+      "dayOfWeek": "Quarta-feira",
+      "dayTime": "Quarta • 19h30",
+      "time": "19h30",
+      "leaders": "Susana Aguiar",
+      "host": "Setor 106 Norte",
+      "focus": "Integração do bairro, estudo bíblico e cuidado pastoral."
+    },
+    {
+      "name": "Semear",
+      "day": "Quarta-feira",
+      "dayOfWeek": "Quarta-feira",
+      "dayTime": "Quarta • 19h30",
+      "time": "19h30",
+      "leaders": "Paulo Costa",
+      "host": "Lares dos Membros",
+      "focus": "Semeando as Boas Novas, evangelismo e discipulado bíblico."
+    },
+    {
+      "name": "QG Evolução Adolescentes",
+      "day": "Sexta-feira",
+      "dayOfWeek": "Sexta-feira",
+      "dayTime": "Sexta • 19h00",
+      "time": "19h00",
+      "leaders": "Deyvid Carvalho",
+      "host": "Setor Jovem / Lares",
+      "focus": "Desafios dos adolescentes, mentoria cristã e fortalecimento na fé."
+    },
+    {
+      "name": "Eleitos em Cristo",
+      "day": "Sexta-feira",
+      "dayOfWeek": "Sexta-feira",
+      "dayTime": "Sexta • 19h30",
+      "time": "19h30",
+      "leaders": "Daniel Arruda e Milena Negreiro",
+      "host": "Lares dos Membros",
+      "focus": "Firmeza doutrinária bíblica, oração perseverante e comunhão sincera."
+    }
+  ],
+  "bankAccount": {
+    "bank": "BRB - Banco de Brasília",
+    "bankCode": "070",
+    "agency": "031",
+    "account": "0310148430",
+    "accountType": "Conta Corrente",
+    "pixKey": "10900748000102",
+    "pixKeyFormatted": "10.900.748/0001-02",
+    "pixType": "CNPJ",
+    "beneficiary": "Igreja Cristã Evangélica Metropolitana de Palmas",
+    "pastoralContacts": [
+      {
+        "pastor": "Pr. Ubiracy Lucas Barbosa",
+        "phone": "(63) 99991-0330",
+        "whatsapp": "5563999910330"
+      },
+      {
+        "pastor": "Pr. Raimundo Brindeiro",
+        "phone": "(63) 99484-0067",
+        "whatsapp": "5563994840067"
+      }
+    ]
+  },
+  "estruturaOrganizacional": {
+    "conselho": [
+      "ALEX VILARINDO MENEZES",
+      "JOÃO BATISTA",
+      "JOCÉLIO PEREIRA SANTOS",
+      "RODRIGO",
+      "UBIRACY LUCAS BARBOSA",
+      "VALTOIR MOREIRA NEVES",
+      "ANTÔNIO DE DEUS"
+    ],
+    "meal": [
+      "JOÃO BATISTA",
+      "VALTOIR MOREIRA NEVES",
+      "ELIETE REJANE SILVA",
+      "UBIRACY LUCAS BARBOSA",
+      "THIAGO MENESES",
+      "WEUDDS JÚNIO DE SOUZA",
+      "DEYVID DENNER"
+    ],
+    "presbiterio": [
+      "ALEX VILARINDO MENEZES",
+      "JOÃO BATISTA",
+      "JOCÉLIO PEREIRA SANTOS",
+      "RODRIGO",
+      "VALTOIR MOREIRA NEVES",
+      "ANTÔNIO DE DEUS"
+    ],
+    "diaconal": [
+      "TÂNIA ALVES BUENO NEVES",
+      "EDNA APARECIDA MARRA BORGES",
+      "RAÍSSA VILARINDO",
+      "ISABEL",
+      "GISCÉLIA BRITO MIRANDA PINTO",
+      "MARIA ZÉLIA PEREIRA DA COSTA",
+      "ANIELSON PEREIRA DE CASTRO",
+      "AYLLAN ALVES SOARES",
+      "EDMAR RIES",
+      "EMANNUEL ARLES SILVA CURCINO",
+      "LEANDRO RODRIGUES VIANA (CARRERINHA)"
+    ]
+  },
+  "ministries": [
+    {
+      "id": "infantil",
+      "name": "Infantil",
+      "leaders": "Brenda Kauanne",
+      "icon": "child_care",
+      "color": "bg-amber-50 text-amber-600 border-amber-200",
+      "desc": "Cuidado amoroso, discipulado lúdico e ensino contextualizado das Sagradas Escrituras para crianças."
+    },
+    {
+      "id": "homens",
+      "name": "Homens",
+      "leaders": "Leandro Rodrigues",
+      "icon": "shield",
+      "color": "bg-blue-50 text-blue-600 border-blue-200",
+      "desc": "Discipulado masculino, fortalecimento espiritual, sacerdócio familiar e liderança cristã servidora."
+    },
+    {
+      "id": "mulheres",
+      "name": "Mulheres",
+      "leaders": "Susana Aguiar",
+      "icon": "psychology_alt",
+      "color": "bg-pink-50 text-pink-600 border-pink-200",
+      "desc": "Oração contínua, comunhão feminina, círculos de acolhimento e fortalecimento da mulher cristã."
+    },
+    {
+      "id": "ornamentacao",
+      "name": "Ornamentação",
+      "leaders": "Marli de Lima",
+      "icon": "yard",
+      "color": "bg-lime-50 text-lime-600 border-lime-200",
+      "desc": "Zelo, beleza e organização acolhedora da casa do Senhor para as celebrações e cultos solenes."
+    },
+    {
+      "id": "site_icem",
+      "name": "Site ICEM",
+      "leaders": "Caio Henrique",
+      "icon": "language",
+      "color": "bg-sky-50 text-sky-600 border-sky-200",
+      "desc": "Portal oficial da igreja, tecnologia, divulgação de escalas, notícias e recursos digitais."
+    },
+    {
+      "id": "recepcao",
+      "name": "Recepção",
+      "leaders": "Dylbert Soares",
+      "icon": "front_hand",
+      "color": "bg-teal-50 text-teal-600 border-teal-200",
+      "desc": "Boas-vindas calorosas, carinho fraternal e acolhimento dedicado aos membros e novos visitantes."
+    },
+    {
+      "id": "midias",
+      "name": "Mídias",
+      "leaders": "Iara Santos",
+      "icon": "videocam",
+      "color": "bg-purple-50 text-purple-600 border-purple-200",
+      "desc": "Sonorização, transmissão dos cultos ao vivo, fotografia, redes sociais e suporte audiovisual."
+    },
+    {
+      "id": "louvor",
+      "name": "Louvor",
+      "leaders": "Alex Vilarindo",
+      "icon": "music_note",
+      "color": "bg-indigo-50 text-indigo-600 border-indigo-200",
+      "desc": "Condução do louvor congregacional com excelência bíblica e adoração sincera ao Senhor."
+    },
+    {
+      "id": "medicos_fronteiras",
+      "name": "Médicos com Fronteiras",
+      "leaders": "Ubiracy Lucas",
+      "icon": "medical_services",
+      "color": "bg-red-50 text-red-600 border-red-200",
+      "desc": "Ação social em saúde, atendimento médico-comunitário e evangelismo prático com amor cristão."
+    },
+    {
+      "id": "universidade_familia",
+      "name": "Universidade da Família",
+      "leaders": "Raimundo Brindeiro e Jacilene Sales",
+      "icon": "school",
+      "color": "bg-violet-50 text-violet-600 border-violet-200",
+      "desc": "Cursos bíblicos formativos, seminários de pais, finanças à luz da Bíblia e edificação familiar."
+    },
+    {
+      "id": "casais",
+      "name": "Casais",
+      "leaders": "Valtoir Moreira e Tânia Alves",
+      "icon": "favorite",
+      "color": "bg-rose-50 text-rose-600 border-rose-200",
+      "desc": "Fortalecimento do matrimônio segundo os princípios bíblicos, encontros nos lares e edificação familiar."
+    },
+    {
+      "id": "adolescentes",
+      "name": "Adolescentes",
+      "leaders": "Luiz Pierre e Laila Gisele",
+      "icon": "diversity_3",
+      "color": "bg-emerald-50 text-emerald-600 border-emerald-200",
+      "desc": "Edificação bíblica, comunhão, desafios da juventude e integração para adolescentes de 12 a 17 anos."
+    },
+    {
+      "id": "miria",
+      "name": "Miriã",
+      "leaders": "Milena Negreiro",
+      "icon": "auto_awesome",
+      "color": "bg-fuchsia-50 text-fuchsia-600 border-fuchsia-200",
+      "desc": "Ministério e serviço com as moças, louvor e liderança feminina inspirada na Palavra."
+    },
+    {
+      "id": "jovens",
+      "name": "Jovens",
+      "leaders": "Maykon Douglas e Maria Isadora",
+      "icon": "group",
+      "color": "bg-cyan-50 text-cyan-600 border-cyan-200",
+      "desc": "Crescimento espiritual, vida missionária, comunhão e desafios relevantes para a juventude cristã."
+    }
+  ],
+  "estudosGC": {
+    "title": "Estudos dos Grupos de Crescimento",
+    "series": "O Princípio da Mutualidade nos Relacionamentos",
+    "subtheme": "Vivendo os Mandamentos de 'Uns aos Outros' no Corpo de Cristo",
+    "badge": "Série Oficial • 2026",
+    "description": "Série bíblica especial de edificação e comunhão aplicada aos Grupos de Crescimento da ICE Metropolitana de Palmas. Cada lição nos orienta na prática dos mandamentos bíblicos da convivência cristã: acolhimento mútuo, submissão em humildade, a guarda do coração contra feridas, o falar que edifica e promove a paz, a vitória sobre hostilidades, a integridade sem máscaras e o poder curador do perdão recíproco em Cristo.",
+    "folderPath": "assets/igrejas/igreja-crista-evangelica-metropolitana-de-palmas-palmas-to/estudos_GC",
+    "studies": [
+      {
+        "id": "licao-1",
+        "lessonNumber": 1,
+        "title": "Lição 1: O Princípio da Mutualidade",
+        "topic": "Mutualidade Cristã",
+        "desc": "O fundamento bíblico de pertencer, acolher e servir uns aos outros como membros vivos do Corpo de Cristo.",
+        "file": "assets/igrejas/igreja-crista-evangelica-metropolitana-de-palmas-palmas-to/estudos_GC/Licao_1_Mutualidade.pdf",
+        "fileName": "Licao_1_Mutualidade.pdf",
+        "size": "1.2 MB"
+      },
+      {
+        "id": "licao-2",
+        "lessonNumber": 2,
+        "title": "Lição 2: Visibilidade, Afeto e Cuidado",
+        "topic": "Afeto & Cuidado Mútuo",
+        "desc": "Enxergando as necessidades do próximo, acolhendo com carinho fraterno e praticando o cuidado ativo e intencional no Corpo de Cristo.",
+        "file": "assets/igrejas/igreja-crista-evangelica-metropolitana-de-palmas-palmas-to/estudos_GC/Licao_2_Visibilidade_Afeto_Cuidado.pdf",
+        "fileName": "Licao_2_Visibilidade_Afeto_Cuidado.pdf",
+        "size": "1.3 MB"
+      },
+      {
+        "id": "licao-3",
+        "lessonNumber": 3,
+        "title": "Lição 3: Submissão e Tolerância Mútua",
+        "topic": "Submissão & Tolerância",
+        "desc": "A prática da humildade sincera, da paciência no convívio e da consideração do próximo como superior a si mesmo.",
+        "file": "assets/igrejas/igreja-crista-evangelica-metropolitana-de-palmas-palmas-to/estudos_GC/Licao_3_Submissao_Tolerancia.pdf",
+        "fileName": "Licao_3_Submissao_Tolerancia.pdf",
+        "size": "1.9 MB"
+      },
+      {
+        "id": "licao-4",
+        "lessonNumber": 4,
+        "title": "Lição 4: Coração Guardado",
+        "topic": "Guarda do Coração",
+        "desc": "Protegendo os sentimentos, as intenções e a saúde espiritual contra amarguras e ressentimentos no convívio fraterno.",
+        "file": "assets/igrejas/igreja-crista-evangelica-metropolitana-de-palmas-palmas-to/estudos_GC/Licao_4_Coracao_Guardado.pdf",
+        "fileName": "Licao_4_Coracao_Guardado.pdf",
+        "size": "22.1 MB"
+      },
+      {
+        "id": "licao-5",
+        "lessonNumber": 5,
+        "title": "Lição 5: Semeando Paz com as Palavras",
+        "topic": "Comunicação Edificante",
+        "desc": "O poder transformador da comunicação guiada pelo Espírito Santo para abençoar, curar e promover a reconciliação.",
+        "file": "assets/igrejas/igreja-crista-evangelica-metropolitana-de-palmas-palmas-to/estudos_GC/Licao_5_Semeando Paz com as Palavras.pdf",
+        "fileName": "Licao_5_Semeando Paz com as Palavras.pdf",
+        "size": "2.0 MB"
+      },
+      {
+        "id": "licao-6",
+        "lessonNumber": 6,
+        "title": "Lição 6: Superando a Hostilidade e as Provocações",
+        "topic": "Superação de Conflitos",
+        "desc": "Como responder às ofensas com maturidade cristã, mansidão e domínio próprio diante de provações relacionais.",
+        "file": "assets/igrejas/igreja-crista-evangelica-metropolitana-de-palmas-palmas-to/estudos_GC/Lição 6 - Superando a Hostilidade e as Provocações.pdf",
+        "fileName": "Lição 6 - Superando a Hostilidade e as Provocações.pdf",
+        "size": "1.0 MB"
+      },
+      {
+        "id": "licao-7",
+        "lessonNumber": 7,
+        "title": "Lição 7: O Perigo da Falsidade e Máscaras",
+        "topic": "Verdade e Transparência",
+        "desc": "Despindo-se de aparências e hipocrisia para cultivar comunhão autêntica, sincera e vulnerável na comunidade.",
+        "file": "assets/igrejas/igreja-crista-evangelica-metropolitana-de-palmas-palmas-to/estudos_GC/Licao_7_Perigo_Falsidade_e_Mascara.pdf",
+        "fileName": "Licao_7_Perigo_Falsidade_e_Mascara.pdf",
+        "size": "1.5 MB"
+      },
+      {
+        "id": "licao-8",
+        "lessonNumber": 8,
+        "title": "Lição 8: O Remédio Definitivo – Perdoem-se Mutuamente",
+        "topic": "Perdão Mútuo",
+        "desc": "O perdão como remédio restaurador de Cristo para curar feridas, restabelecer a paz e selar a unidade fraterna.",
+        "file": "assets/igrejas/igreja-crista-evangelica-metropolitana-de-palmas-palmas-to/estudos_GC/Lição 8_ O Remédio Definitivo – Perdoem-se Mutuamente.pdf",
+        "fileName": "Lição 8_ O Remédio Definitivo – Perdoem-se Mutuamente.pdf",
+        "size": "616 KB"
+      },
+      {
+        "id": "licao-9",
+        "lessonNumber": 9,
+        "title": "Lição 9: O Fundamento da Edificação e o Ensino da Verdade",
+        "topic": "Edificação & Ensino Mútuo",
+        "desc": "Compreender que o crescimento espiritual não ocorre de forma isolada, mas através do processo contínuo de edificação mútua e do ensino informal da Palavra no dia a dia do pequeno grupo.",
+        "file": "assets/igrejas/igreja-crista-evangelica-metropolitana-de-palmas-palmas-to/estudos_GC/Licao_9_Edificacao_e_Ensino_da_Verdade.pdf",
+        "fileName": "Licao_9_Edificacao_e_Ensino_da_Verdade.pdf",
+        "size": "455 KB"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Base Oficial Piauí (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-41.3195, -7.0278]
+},
+"properties": {
+"nome": "ICE Bocaina",
+"cidade": "Bocaina",
+"estado": "PI",
+"bairro": "Bela Vista",
+"endereco": "Rua Oswaldo Cruz, S/N — Bela Vista",
+"cep": "64630-000",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-41.7482, -7.4526]
+},
+"properties": {
+"nome": "ICE Floresta do Piauí",
+"cidade": "Floresta do Piauí",
+"estado": "PI",
+"bairro": "Centro",
+"endereco": "Rua Raimunda Alves Nogueira, 292",
+"cep": "64563-000",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-41.4485, -7.0793]
+},
+"properties": {
+"nome": "ICE Picos",
+"cidade": "Picos",
+"estado": "PI",
+"bairro": "Jardim Natal",
+"endereco": "Avenida Senador Helvídio Nunes, 4701, Jardim Natal",
+"cep": "64600-000",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-41.6758, -7.7378]
+},
+"properties": {
+"nome": "ICE Recreio",
+"cidade": "Isaías Coelho",
+"estado": "PI",
+"bairro": "B. Rural",
+"endereco": "ALC Recreio S/N, B. Rural",
+"cep": "64570-000",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-41.8819, -7.6600]
+},
+"properties": {
+"nome": "ICE Volta do Campo Grande",
+"cidade": "Campinas do Piauí",
+"estado": "PI",
+"bairro": "B. Rural",
+"endereco": "LC Volta do Campo Grande S/N, B. Rural",
+"cep": "64730-000",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+}
+]
+}

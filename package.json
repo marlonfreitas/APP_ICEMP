@@ -1,0 +1,25 @@
+{
+  "name": "ices-brasil-app",
+  "version": "1.0.0",
+  "description": "Aplicativo Oficial de Consulta das Igrejas Cristãs Evangélicas do Brasil (ICEB)",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8080",
+    "build": "echo 'Ready'",
+    "cap:sync": "cap sync",
+    "cap:build": "cap build android"
+  },
+  "keywords": [
+    "iceb",
+    "igreja-crista-evangelica",
+    "brasil",
+    "mapa"
+  ],
+  "author": "ICEB",
+  "license": "MIT",
+  "devDependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/core": "^8.5.2"
+  }
+}

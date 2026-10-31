@@ -1,0 +1,892 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Base Oficial São Paulo (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-50.4358, -21.2089]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Araçatuba",
+"cidade": "Araçatuba",
+"estado": "SP",
+"endereco": "Rua Carlos Corbucci, 278",
+"cep": "16013-323",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.5458, -23.1315]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Atibaia",
+"cidade": "Atibaia",
+"estado": "SP",
+"endereco": "Rua Ipiranga, 181 — Atibaia Jardim",
+"cep": "12942-200",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.5389, -22.9568]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Bragança Paulista",
+"cidade": "Bragança Paulista",
+"estado": "SP",
+"endereco": "Rua Ruth Franco Rocha, 99 — Vila Batista",
+"cep": "12908-730",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.7142, -23.1025]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica em Caçapava",
+"cidade": "Caçapava",
+"estado": "SP",
+"endereco": "Rua Benedito Monteiro de Toledo, 151 — Jardim Amália",
+"cep": "12280-022",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-54.5824, -20.4412]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Carandá do Bosque",
+"cidade": "Campo Grande",
+"estado": "MS",
+"endereco": "Rua Vitorino Zola, 1140 — Carandá do Bosque",
+"cep": "79133-350",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local (Listada na Base Regional SP)"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-54.6432, -20.4619]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Campo Grande",
+"cidade": "Campo Grande",
+"estado": "MS",
+"endereco": "Rua Eurico de Moraes, 257 — Santo Antônio",
+"cep": "79103-360",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local (Listada na Base Regional SP)"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.5082, -27.7516]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Segunda em Florianópolis",
+"cidade": "Florianópolis",
+"estado": "SC",
+"endereco": "João Teixeira de Carvalho, 1158 — Armação",
+"cep": "88066-360",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local (Listada na Base Regional SP)"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.7441, -23.2789]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Francisco Morato",
+"cidade": "Francisco Morato",
+"estado": "SP",
+"endereco": "Avenida Jorge Amado, 454",
+"cep": "07934-360",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.7285, -23.3214]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Shekinah",
+"cidade": "Franco da Rocha",
+"estado": "SP",
+"endereco": "Rua Fernando Gomes de Sá, 125",
+"cep": "07808-000",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-50.6482, -21.2612]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Guararapes",
+"cidade": "Guararapes",
+"estado": "SP",
+"endereco": "Rua Ricardo Vaz de Góes, 219 — Copacabana",
+"cep": "16700-000",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.1882, -22.8124]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica em Guaratinguetá",
+"cidade": "Guaratinguetá",
+"estado": "SP",
+"endereco": "Rua Antônio Pereira Fróes, 278 — Parque das Alamedas",
+"cep": "12517-180",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.9421, -23.2845]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Jardim das Indústrias — Jacareí",
+"cidade": "Jacareí",
+"estado": "SP",
+"endereco": "Rua Ricardo Verdelli, 200",
+"cep": "12306-310",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.9682, -23.3032]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Jacareí",
+"cidade": "Jacareí",
+"estado": "SP",
+"endereco": "Rua Rui Barbosa, 363",
+"cep": "12300-000",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.3985, -23.1812]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Nazaré Paulista",
+"cidade": "Nazaré Paulista",
+"estado": "SP",
+"endereco": "Rua Luiz R. Pinheiro, 37",
+"cep": "12960-000",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.4598, -22.9254]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Pindamonhangaba",
+"cidade": "Pindamonhangaba",
+"estado": "SP",
+"endereco": "Rua Cônego João Antônio da Costa Bueno, 413 — Santana",
+"cep": "12403-010",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.4095, -24.0042]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Praia Grande",
+"cidade": "Praia Grande",
+"estado": "SP",
+"endereco": "Rua São Bernardo, 108 — Boqueirão",
+"cep": "11701-240",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.4312, -24.0154]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Vila Antártica",
+"cidade": "Praia Grande",
+"estado": "SP",
+"endereco": "Rua Franklin A. Moura, 256",
+"cep": "11721-100",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.4091, -24.0040]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Caiçara",
+"cidade": "Praia Grande",
+"estado": "SP",
+"endereco": "Rua S. Bernardo, 102-105",
+"cep": "11701-240",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.4821, -24.0389]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica da Curva do S",
+"cidade": "Praia Grande",
+"estado": "SP",
+"endereco": "Avenida Casemiro Domcev, 49 — Nova Mirim",
+"cep": "11717-037",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-50.3325, -22.2471]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica em Quatá",
+"cidade": "Quatá",
+"estado": "SP",
+"endereco": "Av. Professor Carvalho Pinto, 330",
+"cep": "19780-000",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.8958, -23.2625]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica do Jardim Imperial",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua Napoleão Bonaparte, 72",
+"cep": "12234-270",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.8962, -23.2038]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica do Jardim Maringá",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua Casimiro de Abreu, 211 — Vila Ema",
+"cep": "12243-060",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.9015, -23.1698]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Santana da Paraíba",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Praça Armando Sales, 109",
+"cep": "12212-160",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.9038, -23.1754]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Tuiuti",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua Tuiuti, 52 — Vila Rossi",
+"cep": "12211-090",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.8924, -23.2482]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Bosque dos Eucaliptos",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua Tereza Alves Cursino, 233 — Jardim Portugal",
+"cep": "12232-160",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.8012, -23.1624]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Residencial Galo Branco",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua Clementino Simões, 1315",
+"cep": "12247-490",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.8652, -23.2325]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Jardim Aeroporto",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua Estônia, 744",
+"cep": "12231-160",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.9185, -23.2215]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Jardim das Indústrias — SJC",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Av. Dr. João Batista S. Queiroz Jr., 1611",
+"cep": "12241-000",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.8856, -23.1812]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de São José dos Campos",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua Cel. José Monteiro, 167",
+"cep": "12210-140",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.9012, -23.2682]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Jardim Vale do Sol",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua Goiânia, 294",
+"cep": "12235-625",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.9385, -23.1154]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica do Turvo",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Estrada do Turvo, S/N — Zona Rural",
+"cep": "12200-000",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.7954, -23.1685]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Ebenezer",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua dos Cirurgiões Dentistas, 800",
+"cep": "12248-515",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.8712, -23.1889]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Monte Castelo",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Avenida Brasil, 660 — Monte Castelo",
+"cep": "12215-000",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.8892, -23.2351]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Jardim Cruzeiro do Sul",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua Vítor Pinto Ribeiro, 122",
+"cep": "12234-809",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.8398, -23.2104]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Jardim da Granja",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua Áries, 125 — Jardim da Granja",
+"cep": "12227-330",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.8452, -23.1956]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Jardim das Cerejeiras",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua 15 de Julho, 340 — Jardim das Cerejeiras",
+"cep": "12225-530",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.8582, -23.1834]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica da Vila Industrial",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua Saigiro Nakamura, 693",
+"cep": "12220-280",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.9125, -23.2562]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Interlagos — SJC",
+"cidade": "São José dos Campos",
+"estado": "SP",
+"endereco": "Rua Ubirajara Raimundo de Souza, 404",
+"cep": "12290-001",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.6112, -23.6192]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Vila Mercês",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Rua Angaturama, 222 — Vila Mercês",
+"cep": "04164-010",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.6366, -23.5658]
+},
+"properties": {
+"nome": "Igreja Cristã Paulistana",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Rua Pires da Mota, 110 — Aclimação",
+"cep": "01529-000",
+"mear": "MEAR São Paulo",
+"tipo": "Primeira Igreja ICEB (Histórica)"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.7118, -23.7291]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica do Parque das Nações",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Rua Irene de Sousa Pinto, 158",
+"cep": "04822-020",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.6698, -23.4682]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Betel",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Avenida Dona Mariana Caligiori Ronchetti, 903 — Jardim Peri",
+"cep": "02650-000",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.5492, -23.5518]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Vila Santa Isabel",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Rua Dirceu, 58 — Vila Santa Isabel",
+"cep": "03363-020",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.7032, -23.7145]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Interlagos",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Rua Guaiuba, 161 — Cidade Dutra",
+"cep": "04810-110",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.6418, -23.6457]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica do Jabaquara",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Rua Maracá, 536",
+"cep": "04313-210",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.5085, -23.5042]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Jardim Gonzaga",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Rua Eugênio Almeida, 47",
+"cep": "03755-020",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.6672, -23.4715]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica do Jardim Peri",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Rua Leandro Joaquim, 09",
+"cep": "02651-050",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.6431, -23.4789]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Lauzane Paulista",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Rua Cel. Manoel P. Ayres, 21",
+"cep": "02442-090",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.6385, -23.4831]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica do Mandaqui",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Rua Álvaro Gomes, 45 — Parque do Mandaqui",
+"cep": "02421-010",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.7725, -23.6811]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Jardim Clarice",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Av. Wilhelm F. Ladwig, 74",
+"cep": "05856-170",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.6348, -23.4942]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Nova Vida",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Rua Luís Antônio dos Santos, 54 — Santa Teresinha",
+"cep": "02460-000",
+"mear": "MEAR São Paulo",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-46.5215, -23.5714]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Vila Antonieta",
+"cidade": "São Paulo",
+"estado": "SP",
+"endereco": "Rua Alto Belo, 22 — Vila Antonieta",
+"cep": "03478-000",
+"mear": "MEAR São Paulo",
+"tipo": "Plantação / Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.3854, -23.7512]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica Canto do Mar",
+"cidade": "São Sebastião",
+"estado": "SP",
+"endereco": "Av. Odisseu Nr 369 — Canto do Mar",
+"cep": "11601-102",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-45.5458, -23.0298]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica de Taubaté",
+"cidade": "Taubaté",
+"estado": "SP",
+"endereco": "Caminho dos Mamoeiros, 350",
+"cep": "12092-000",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-50.5132, -21.9345]
+},
+"properties": {
+"nome": "Igreja Cristã Evangélica em Tupã",
+"cidade": "Tupã",
+"estado": "SP",
+"endereco": "Rua Tupinambás, 626 — Centro",
+"cep": "17601-070",
+"mear": "MEAR Vale do Paraíba",
+"tipo": "Congregação Local"
+}
+}
+]
+}

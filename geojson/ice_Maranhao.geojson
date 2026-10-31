@@ -1,0 +1,199 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Maranhão (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.4914, -5.5248]
+},
+"properties": {
+"nome": "ICE Catedral da Família",
+"cidade": "Imperatriz",
+"bairro": "Centro / Santa Rita",
+"estado": "MA",
+"endereco": "Rua Sergipe, 593 — Centro",
+"cep": "65903-340",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.4852, -5.5312]
+},
+"properties": {
+"nome": "ICE Canaã",
+"cidade": "Imperatriz",
+"bairro": "Centro",
+"estado": "MA",
+"endereco": "Rua Coriolano Milhomem, 926 — Centro",
+"cep": "65901-030",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.4892, -5.5265]
+},
+"properties": {
+"nome": "ICE Emanuel",
+"cidade": "Imperatriz",
+"bairro": "Centro",
+"estado": "MA",
+"endereco": "Rua Sergipe, 364 — Centro",
+"cep": "65903-340",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.4801, -5.5195]
+},
+"properties": {
+"nome": "ICE Filadélfia",
+"cidade": "Imperatriz",
+"bairro": "Nova Imperatriz",
+"estado": "MA",
+"endereco": "Av. JK, 46-A — Nova Imperatriz",
+"cep": "65917-020",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.4764, -5.5381]
+},
+"properties": {
+"nome": "ICE Elohim",
+"cidade": "Imperatriz",
+"bairro": "Juçara / Centro",
+"estado": "MA",
+"endereco": "Rua Tupinambá, 444",
+"cep": "65900-000",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.4685, -5.5412]
+},
+"properties": {
+"nome": "ICE Getsêmani",
+"cidade": "Imperatriz",
+"bairro": "Vila João Castelo",
+"estado": "MA",
+"endereco": "Rua Goiás, 31A, c/ Rua Santo Antônio — Vila João Castelo",
+"cep": "65900-001",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.4795, -5.5124]
+},
+"properties": {
+"nome": "ICE Maranatha",
+"cidade": "Imperatriz",
+"bairro": "Nova Imperatriz",
+"estado": "MA",
+"endereco": "Rua Dominicano, 88",
+"cep": "65917-220",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.4821, -5.5298]
+},
+"properties": {
+"nome": "ICE Nova Canaã",
+"cidade": "Imperatriz",
+"bairro": "Centro",
+"estado": "MA",
+"endereco": "Rua Ceará",
+"cep": "65901-260",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.4589, -5.5512]
+},
+"properties": {
+"nome": "ICE Shekinah",
+"cidade": "Imperatriz",
+"bairro": "Vila Fiquene",
+"estado": "MA",
+"endereco": "Rua Itaipu, 123 — B. Vila Fiquene",
+"cep": "65912-060",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.4615, -5.5482]
+},
+"properties": {
+"nome": "ICE Vila Nova",
+"cidade": "Imperatriz",
+"bairro": "Vila Nova",
+"estado": "MA",
+"endereco": "Av. São Sebastião, 801 — Vila Nova",
+"cep": "65912-100",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-47.5028, -4.9542]
+},
+"properties": {
+"nome": "ICE Açailândia",
+"cidade": "Açailândia",
+"bairro": "Centro",
+"estado": "MA",
+"endereco": "Rua Anita Garibaldi, 902 — Centro",
+"cep": "65921-000",
+"mear": "MEAR Planalto",
+"tipo": "Congregação Local"
+}
+}
+]
+}

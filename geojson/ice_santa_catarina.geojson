@@ -1,0 +1,46 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Santa Catarina (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.5082, -27.7516]
+},
+"properties": {
+"nome": "ICE Florianópolis (Congregação de Florianópolis)",
+"cidade": "Florianópolis",
+"bairro": "Armação do Pântano do Sul",
+"estado": "SC",
+"endereco": "Rua João Teixeira de Carvalho, 158 — Armação",
+"cep": "88066-380",
+"mear": "MEAR Sul",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.5835, -26.2422]
+},
+"properties": {
+"nome": "ICE São Francisco do Sul",
+"cidade": "São Francisco do Sul",
+"bairro": "Do Ubatuba",
+"estado": "SC",
+"endereco": "Rua Felipe Musse, 798 — Do Ubatuba",
+"cep": "89240-000",
+"mear": "MEAR Sul",
+"tipo": "Congregação Local"
+}
+}
+]
+}

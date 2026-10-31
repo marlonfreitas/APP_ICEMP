@@ -1,0 +1,444 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Goiás (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9534, -16.3267]
+},
+"properties": {
+"nome": "ICE Central de Anápolis",
+"cidade": "Anápolis",
+"estado": "GO",
+"endereco": "Av. Miguel João, 17, Centro",
+"cep": "75020-000",
+"mear": "MEAR Centro Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9501, -16.3242]
+},
+"properties": {
+"nome": "ICE 2ª de Anápolis",
+"cidade": "Anápolis",
+"estado": "GO",
+"endereco": "R. Quatorze de Julho, 77, Setor Central",
+"cep": "75043-040",
+"mear": "MEAR Centro Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9382, -16.3095]
+},
+"properties": {
+"nome": "ICE Alexandrina",
+"cidade": "Anápolis",
+"estado": "GO",
+"endereco": "Rua Alarico Verano, Qd. 07, Lt. 24, Alexandrina",
+"cep": "75060-070",
+"mear": "MEAR Centro Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9712, -16.2954]
+},
+"properties": {
+"nome": "ICE Jaiara",
+"cidade": "Anápolis",
+"estado": "GO",
+"endereco": "Rua Marechal Gouveia, 1570, Vila Jaiara",
+"cep": "75064-080",
+"mear": "MEAR Centro Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9488, -16.3411]
+},
+"properties": {
+"nome": "ICE Jundiaí",
+"cidade": "Anápolis",
+"estado": "GO",
+"endereco": "Rua Antonio de Souza Ramos, Qd 22, Lt 23, Bairro Jundiaí",
+"cep": "75110-790",
+"mear": "MEAR Centro Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9610, -16.3214]
+},
+"properties": {
+"nome": "ICE Maracanã",
+"cidade": "Anápolis",
+"estado": "GO",
+"endereco": "Avenida Presidente Kennedy, 430, Bairro Maracanã",
+"cep": "75040-040",
+"mear": "MEAR Centro Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9325, -16.3490]
+},
+"properties": {
+"nome": "ICE Setor Sul",
+"cidade": "Anápolis",
+"estado": "GO",
+"endereco": "Rua JM 59, Qd 90, Lt 08, Setor Sul Jamil Miguel",
+"cep": "75124-630",
+"mear": "MEAR Centro Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9248, -16.3115]
+},
+"properties": {
+"nome": "ICE Eldorado",
+"cidade": "Anápolis",
+"estado": "GO",
+"endereco": "Av. Vilmar Adair Gomes, Qd 17, Lt 13, Residencial Eldorado",
+"cep": "75073-255",
+"mear": "MEAR Centro Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9189, -16.3021]
+},
+"properties": {
+"nome": "ICE Esperança",
+"cidade": "Anápolis",
+"estado": "GO",
+"endereco": "Av. Colorado esq. c/ Rua 7, S/N, Jardim Esperança",
+"cep": "75071-650",
+"mear": "MEAR Centro Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9056, -16.2910]
+},
+"properties": {
+"nome": "ICE Filostro",
+"cidade": "Anápolis",
+"estado": "GO",
+"endereco": "Av. Geraldo Faria de Castro, Qd 14, Lt 12, Filostro Machado",
+"cep": "75091-820",
+"mear": "MEAR Centro Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9412, -16.2845]
+},
+"properties": {
+"nome": "ICE Boa Vista",
+"cidade": "Anápolis",
+"estado": "GO",
+"endereco": "Rua Uruguai, 389, Boa Vista",
+"cep": "75083-560",
+"mear": "MEAR Centro Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9654, -16.2882]
+},
+"properties": {
+"nome": "ICE Boas Novas",
+"cidade": "Anápolis",
+"estado": "GO",
+"endereco": "Rua Carlinhos José Ribeiro, 401, Vila Jaiara",
+"cep": "75064-350",
+"mear": "MEAR Centro Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.2568, -16.6789]
+},
+"properties": {
+"nome": "ICE Central de Goiânia",
+"cidade": "Goiânia",
+"estado": "GO",
+"endereco": "Av. Paranaíba, 871, Setor Central",
+"cep": "74020-010",
+"mear": "MEAR Centro Sul",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.2612, -16.7032]
+},
+"properties": {
+"nome": "ICE Setor Oeste",
+"cidade": "Goiânia",
+"estado": "GO",
+"endereco": "Avenida Mutirão, Nº 2558, Setor Oeste",
+"cep": "74215-240",
+"mear": "MEAR Centro Sul",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.2785, -16.7164]
+},
+"properties": {
+"nome": "ICE Jardim América",
+"cidade": "Goiânia",
+"estado": "GO",
+"endereco": "Rua C142, Qd 259, Lts 19-20, Jardim América",
+"cep": "74265-010",
+"mear": "MEAR Sudoeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.2965, -16.6712]
+},
+"properties": {
+"nome": "ICE Campinas",
+"cidade": "Goiânia",
+"estado": "GO",
+"endereco": "Rua 234 Esq. 236, Nº 372, Setor Campinas",
+"cep": "74465-539",
+"mear": "MEAR Sudoeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.2721, -16.7289]
+},
+"properties": {
+"nome": "ICE Parque Amazônia",
+"cidade": "Goiânia",
+"estado": "GO",
+"endereco": "Setor Parque Amazônia",
+"cep": "74840-000",
+"mear": "MEAR Centro Sul",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.3101, -16.7584]
+},
+"properties": {
+"nome": "ICE Garavelo",
+"cidade": "Aparecida de Goiânia",
+"estado": "GO",
+"endereco": "Rua 11c, Qd 94, Lts 1 e 2, Setor Garavelo",
+"cep": "74930-200",
+"mear": "MEAR Sudoeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.2452, -16.7794]
+},
+"properties": {
+"nome": "ICE Cruzeiro do Sul",
+"cidade": "Aparecida de Goiânia",
+"estado": "GO",
+"endereco": "Rua Damasco, Qd 05, Lt 11, Conjunto Cruzeiro do Sul",
+"cep": "74916-200",
+"mear": "MEAR Sudoeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.3325, -16.7912]
+},
+"properties": {
+"nome": "ICE Aparecida de Goiânia",
+"cidade": "Aparecida de Goiânia",
+"estado": "GO",
+"endereco": "Rua Savóia, Qd 54, Lt 17, Village Garavelo",
+"cep": "74968-496",
+"mear": "MEAR Centro Sul",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.2514, -16.7998]
+},
+"properties": {
+"nome": "ICE Eterna Aliança",
+"cidade": "Aparecida de Goiânia",
+"estado": "GO",
+"endereco": "Rua X 28, Qd. 78, Lt. 09/10, Mansões Paraíso",
+"cep": "74922-700",
+"mear": "MEAR Centro Sul",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.6258, -17.7441]
+},
+"properties": {
+"nome": "ICE Caldas Novas",
+"cidade": "Caldas Novas",
+"estado": "GO",
+"endereco": "Rua 12 s/n, Qd 11, Lt 03, Caldas do Oeste",
+"cep": "75689-102",
+"mear": "MEAR Sudoeste Goiano",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.5982, -15.3082]
+},
+"properties": {
+"nome": "ICE Ceres",
+"cidade": "Ceres",
+"estado": "GO",
+"endereco": "Av. Norte Sul, S/N, Qd. Z20, Lt. 04, Jardim Sorriso II",
+"cep": "76300-000",
+"mear": "MEAR Médio Norte",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.8089, -16.0215]
+},
+"properties": {
+"nome": "ICE Itaberaí",
+"cidade": "Itaberaí",
+"estado": "GO",
+"endereco": "Rua VA 7, Qd. 9, Lt. 34, Virgílio Araújo",
+"cep": "76650-000",
+"mear": "MEAR Centro Oeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.2185, -16.4052]
+},
+"properties": {
+"nome": "ICE Nerópolis",
+"cidade": "Nerópolis",
+"estado": "GO",
+"endereco": "Rua João Guerra, Q 43, Lt 0, Nº 294, Centro",
+"cep": "75460-000",
+"mear": "MEAR Centro Sul",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.4285, -16.5412]
+},
+"properties": {
+"nome": "ICE Goianira",
+"cidade": "Goianira",
+"estado": "GO",
+"endereco": "R. 14, Qd 01, Chácara 13, Setor San Diego",
+"cep": "75370-000",
+"mear": "MEAR Centro Sul",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.9984, -17.1985]
+},
+"properties": {
+"nome": "ICE Cristianópolis",
+"cidade": "Cristianópolis",
+"estado": "GO",
+"endereco": "Rua José Pereira Faustino, 370",
+"cep": "75230-000",
+"mear": "MEAR Centro Sul",
+"tipo": "Congregação Local"
+}
+}
+]
+}

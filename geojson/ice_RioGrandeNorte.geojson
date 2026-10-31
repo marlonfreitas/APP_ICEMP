@@ -1,0 +1,220 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Rio Grande do Norte (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-37.3621, -5.1912]
+},
+"properties": {
+"nome": "ICE Abolição",
+"cidade": "Mossoró",
+"estado": "RN",
+"endereco": "Rua José Maria de Souza Luz, 602 — Abolição",
+"cep": "59613-680",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-37.3195, -5.2145]
+},
+"properties": {
+"nome": "ICE Alto da Pelonha",
+"cidade": "Mossoró",
+"estado": "RN",
+"endereco": "Rua Edgar Ferreira Burlamarqui, 181 — Alto da Pelonha",
+"cep": "59626-238",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-37.3382, -5.2285]
+},
+"properties": {
+"nome": "ICE Belo Horizonte",
+"cidade": "Mossoró",
+"estado": "RN",
+"endereco": "Rua Zeca Medeiros, 133 — Belo Horizonte",
+"cep": "59604-435",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-37.3912, -5.1874]
+},
+"properties": {
+"nome": "ICE Cidade Oeste",
+"cidade": "Mossoró",
+"estado": "RN",
+"endereco": "Av. Mossoró, 1145 — Itapetinga / Cidade Oeste",
+"cep": "59643-310",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-37.5185, -5.4618]
+},
+"properties": {
+"nome": "ICE Governador Dix-Sept Rosado",
+"cidade": "Governador Dix-Sept Rosado",
+"estado": "RN",
+"endereco": "R. Sebastião J. de Souza — Centro",
+"cep": "59790-000",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-37.3468, -5.1895]
+},
+"properties": {
+"nome": "ICE Mossoró",
+"cidade": "Mossoró",
+"estado": "RN",
+"endereco": "Rua Tiradentes, 60 — Centro",
+"cep": "59600-210",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-37.3584, -5.2052]
+},
+"properties": {
+"nome": "ICE Mossoró Inocoop",
+"cidade": "Mossoró",
+"estado": "RN",
+"endereco": "Rua Aristides Rebouças, 11 — Inocoop / Abolição",
+"cep": "59631-090",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-35.2152, -5.8645]
+},
+"properties": {
+"nome": "ICE Natal",
+"cidade": "Natal",
+"estado": "RN",
+"endereco": "Rua Sebastião Barreto, 118, c/ Delmiro Gouveia — Cidade da Esperança",
+"cep": "59080-480",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-37.3789, -5.1742]
+},
+"properties": {
+"nome": "ICE Nova Mossoró",
+"cidade": "Mossoró",
+"estado": "RN",
+"endereco": "Av. dos Automóveis, 81 — Santa Júlia",
+"cep": "59640-310",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.2085, -6.1124]
+},
+"properties": {
+"nome": "ICE Pau dos Ferros",
+"cidade": "Pau dos Ferros",
+"estado": "RN",
+"endereco": "Avenida Senador Dinarte Mariz, 687",
+"cep": "59900-000",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.0984, -5.1482]
+},
+"properties": {
+"nome": "ICE Resgate do Limoeiro do Norte",
+"cidade": "Limoeiro do Norte",
+"estado": "CE",
+"endereco": "Rua Maria Ivanir da Silva Lourenço, 1000, Conj. Hab. Brasil — Limoeirinho",
+"cep": "62930-000",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local (Jurisdição Regional RN)"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-37.3305, -5.2012]
+},
+"properties": {
+"nome": "ICE Sumaré",
+"cidade": "Mossoró",
+"estado": "RN",
+"endereco": "Rua João Barbosa de Lira, 917 — Alto do Sumaré",
+"cep": "59633-738",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-37.3242, -5.2185]
+},
+"properties": {
+"nome": "ICE Vingt Rosado",
+"cidade": "Mossoró",
+"estado": "RN",
+"endereco": "Rua Sabino Leite, 2001 — Vingt Rosado",
+"cep": "59626-670",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+}
+]
+}

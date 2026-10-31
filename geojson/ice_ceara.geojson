@@ -1,0 +1,284 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Ceará (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.3056, -3.9052]
+},
+"properties": {
+"nome": "ICE Novo Iguape",
+"cidade": "Aquiraz",
+"estado": "CE",
+"endereco": "Av. São João, S/N — Novo Iguape",
+"cep": "61700-000",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.6534, -3.7315]
+},
+"properties": {
+"nome": "ICE Campo Grande",
+"cidade": "Caucaia",
+"estado": "CE",
+"endereco": "Rua Progresso, 66",
+"cep": "61600-000",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.6148, -3.7582]
+},
+"properties": {
+"nome": "ICE Caucaia",
+"cidade": "Caucaia",
+"estado": "CE",
+"endereco": "Rua Jurupary, 718, Pq. Guadalajara",
+"cep": "61650-010",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.6625, -3.7420]
+},
+"properties": {
+"nome": "ICE Caucaiense",
+"cidade": "Caucaia",
+"estado": "CE",
+"endereco": "Rua Nossa Senhora de Lourdes, 259, Itambé 1",
+"cep": "61600-000",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.6854, -3.7198]
+},
+"properties": {
+"nome": "ICE Guajiru",
+"cidade": "Caucaia",
+"estado": "CE",
+"endereco": "Rua Ana Rocha, 96b — Guajiru",
+"cep": "61629-050",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-40.6728, -5.1764]
+},
+"properties": {
+"nome": "ICE Crateús",
+"cidade": "Crateús",
+"estado": "CE",
+"endereco": "Rua Dr. Antônio Catunda, 392",
+"cep": "63700-000",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-40.6651, -5.1832]
+},
+"properties": {
+"nome": "ICE Nova Vida — Crateús",
+"cidade": "Crateús",
+"estado": "CE",
+"endereco": "Rua Manoel Idelfonso, 1151 — São Vicente",
+"cep": "63700-000",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.5528, -3.7184]
+},
+"properties": {
+"nome": "ICE Carlito Pamplona",
+"cidade": "Fortaleza",
+"estado": "CE",
+"endereco": "R. Engenheiro João Nogueira, 705",
+"cep": "60335-140",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.4715, -3.7512]
+},
+"properties": {
+"nome": "ICE Dunas",
+"cidade": "Fortaleza",
+"estado": "CE",
+"endereco": "Av. Dolor Barreira, 1007",
+"cep": "60181-004",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.5142, -3.7228]
+},
+"properties": {
+"nome": "ICE Fortalezense",
+"cidade": "Fortaleza",
+"estado": "CE",
+"endereco": "Avenida Monsenhor Tabosa, 575",
+"cep": "60165-011",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.5882, -3.8115]
+},
+"properties": {
+"nome": "ICE Reformada",
+"cidade": "Fortaleza",
+"estado": "CE",
+"endereco": "Avenida Independência, 2044",
+"cep": "60761-005",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.6012, -3.8051]
+},
+"properties": {
+"nome": "ICE Siqueira",
+"cidade": "Fortaleza",
+"estado": "CE",
+"endereco": "Rua Mário Montenegro, 188 — Siqueira",
+"cep": "60732-546",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.6289, -3.8765]
+},
+"properties": {
+"nome": "ICE Hebron",
+"cidade": "Maracanaú",
+"estado": "CE",
+"endereco": "Rua Henrique Mendes, 1291, Distrito Jacanaú",
+"cep": "61917-360",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-40.5621, -4.7082]
+},
+"properties": {
+"nome": "ICE Estrela da Manhã",
+"cidade": "Nova Russas",
+"estado": "CE",
+"endereco": "Av. Dr. Osvaldo Martins, 864",
+"cep": "62200-000",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-38.1324, -5.2536]
+},
+"properties": {
+"nome": "ICE Tabuleiro do Norte",
+"cidade": "Tabuleiro do Norte",
+"estado": "CE",
+"endereco": "Rua Cel. Vicente Soares, 4856 — São Francisco",
+"cep": "62960-000",
+"mear": "MEAR Oeste Potiguar",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-40.9025, -3.8492]
+},
+"properties": {
+"nome": "ICE Calvário",
+"cidade": "Ubajara",
+"estado": "CE",
+"endereco": "Av. dos Constituintes, 21",
+"cep": "62350-000",
+"mear": "MEAR Nordeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-40.4812, -4.1952]
+},
+"properties": {
+"nome": "ICE Varjota (em plantação)",
+"cidade": "Varjota",
+"estado": "CE",
+"endereco": "R. Jair Castelo Branco, 289",
+"cep": "62265-000",
+"mear": "MEAR Nordeste",
+"tipo": "Plantação / Congregação Local"
+}
+}
+]
+}

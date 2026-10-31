@@ -1,0 +1,233 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Mato Grosso (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-56.0682, -15.6791]
+},
+"properties": {
+"nome": "ICE Ágape Parque Cuiabá",
+"cidade": "Cuiabá",
+"bairro": "Parque Cuiabá",
+"estado": "MT",
+"endereco": "Rua K-3, Qd 14, C-2",
+"cep": "78095-522",
+"mear": "MEAR Mato Grosso",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-58.3541, -15.4645]
+},
+"properties": {
+"nome": "ICE Araputanga",
+"cidade": "Araputanga",
+"bairro": "Centro",
+"estado": "MT",
+"endereco": "Rua Arthur Francisco Xavier, 1075",
+"cep": "78260-000",
+"mear": "MEAR Mato Grosso",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-52.2612, -15.8954]
+},
+"properties": {
+"nome": "ICE Barra do Garças",
+"cidade": "Barra do Garças",
+"bairro": "Centro",
+"estado": "MT",
+"endereco": "Rua das Margaridas, 128",
+"cep": "78600-000",
+"mear": "MEAR Mato Grosso",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-56.0792, -15.8678]
+},
+"properties": {
+"nome": "ICE Leverger",
+"cidade": "Santo Antônio do Leverger",
+"bairro": "Centro",
+"estado": "MT",
+"endereco": "Rua Marechal Deodoro, 163, Centro",
+"cep": "78180-000",
+"mear": "MEAR Mato Grosso",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-55.9125, -13.0645]
+},
+"properties": {
+"nome": "ICE Lucas do Rio Verde",
+"cidade": "Lucas do Rio Verde",
+"bairro": "Setor Sul",
+"estado": "MT",
+"endereco": "Rua Laurindo da Silva, 1835-S",
+"cep": "78455-000",
+"mear": "MEAR Mato Grosso",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-56.0598, -15.6124]
+},
+"properties": {
+"nome": "ICE Maranata",
+"cidade": "Cuiabá",
+"bairro": "Areão / Grande Terceiro",
+"estado": "MT",
+"endereco": "Rua Amazônia, Esq. Rua Pará, S/N",
+"cep": "78065-318",
+"mear": "MEAR Mato Grosso",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-53.0182, -14.9085]
+},
+"properties": {
+"nome": "ICE Novo São Joaquim",
+"cidade": "Novo São Joaquim",
+"bairro": "Centro",
+"estado": "MT",
+"endereco": "Rua 31 de Março, 98",
+"cep": "78625-000",
+"mear": "MEAR Centro Oeste",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-54.2954, -15.5342]
+},
+"properties": {
+"nome": "ICE Primavera do Leste",
+"cidade": "Primavera do Leste",
+"bairro": "Jardim das Américas",
+"estado": "MT",
+"endereco": "Av. Tamareiras, 1096, Esq. Rua Laranjeiras",
+"cep": "78850-000",
+"mear": "MEAR Mato Grosso",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-56.0485, -15.6482]
+},
+"properties": {
+"nome": "ICE Reencontro",
+"cidade": "Cuiabá",
+"bairro": "Tijucal / Setor 1",
+"estado": "MT",
+"endereco": "Avenida Doutor Meirelles, 560, Setor 1",
+"cep": "78088-010",
+"mear": "MEAR Mato Grosso",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-54.6315, -16.4678]
+},
+"properties": {
+"nome": "ICE Rondonópolis",
+"cidade": "Rondonópolis",
+"bairro": "Jardim dos Pioneiros",
+"estado": "MT",
+"endereco": "Avenida Marechal Rondon, 2069",
+"cep": "78700-075",
+"mear": "MEAR Mato Grosso",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-55.7142, -12.5489]
+},
+"properties": {
+"nome": "ICE Sorriso",
+"cidade": "Sorriso",
+"bairro": "Jardim Aurora",
+"estado": "MT",
+"endereco": "Rua Bandeirantes, 161",
+"cep": "78890-000",
+"mear": "MEAR Mato Grosso",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-57.4985, -14.6189]
+},
+"properties": {
+"nome": "ICE Tangará da Serra",
+"cidade": "Tangará da Serra",
+"bairro": "Jardim dos Ipês",
+"estado": "MT",
+"endereco": "Av. das Castanheiras, Qd 09, Lt 12",
+"cep": "78307-229",
+"mear": "MEAR Mato Grosso",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-56.0982, -15.5975]
+},
+"properties": {
+"nome": "ICE Vida Nova",
+"cidade": "Cuiabá",
+"bairro": "Quilombo / Centro Norte",
+"estado": "MT",
+"endereco": "Rua Tenente João Batista Leite Silva, 302",
+"cep": "78005-590",
+"mear": "MEAR Mato Grosso",
+"tipo": "Congregação Local"
+}
+}
+]
+}

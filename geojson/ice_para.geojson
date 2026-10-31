@@ -1,0 +1,352 @@
+{
+"type": "FeatureCollection",
+"name": "Igrejas Cristãs Evangélicas - Pará (ICEB)",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.4495, -1.4198]
+},
+"properties": {
+"nome": "ICE Esperança",
+"cidade": "Belém",
+"bairro": "Sacramenta",
+"estado": "PA",
+"endereco": "Trav. Alferes Costa, 403 — Sacramenta",
+"cep": "66123-030",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.4524, -1.4678]
+},
+"properties": {
+"nome": "ICE Eterna Aliança",
+"cidade": "Belém",
+"bairro": "Terra Firme",
+"estado": "PA",
+"endereco": "Av. Perimetral, Rua Universal, Qd D, Nr 29 — Terra Firme",
+"cep": "66079-510",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.4112, -1.3584]
+},
+"properties": {
+"nome": "ICE Cidade Nova",
+"cidade": "Ananindeua",
+"bairro": "Cidade Nova V",
+"estado": "PA",
+"endereco": "Travessa WE 30, Casa 972, Cidade Nova V",
+"cep": "67133-130",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.4120, -1.3591]
+},
+"properties": {
+"nome": "ICE Comunidade de Curuperé",
+"cidade": "Ananindeua",
+"bairro": "Cidade Nova V",
+"estado": "PA",
+"endereco": "Travessa WE 30, Casa 971, Cidade Nova V",
+"cep": "67133-130",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.3982, -1.3325]
+},
+"properties": {
+"nome": "ICE Icuí",
+"cidade": "Ananindeua",
+"bairro": "Icuí-Guajará",
+"estado": "PA",
+"endereco": "Tv. Paulo Paixão, 86 — Icuí-Guajará",
+"cep": "67125-107",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.8835, -1.7228]
+},
+"properties": {
+"nome": "ICE Algodoal",
+"cidade": "Abaetetuba",
+"bairro": "Algodoal / Centro",
+"estado": "PA",
+"endereco": "Rua Barão do Rio Branco, 945",
+"cep": "68440-000",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.8792, -1.7245]
+},
+"properties": {
+"nome": "ICE Angélica",
+"cidade": "Abaetetuba",
+"bairro": "Angélica",
+"estado": "PA",
+"endereco": "Rua Anchieta, 2575",
+"cep": "68440-000",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.8715, -1.7352]
+},
+"properties": {
+"nome": "ICE Bom Jardim",
+"cidade": "Abaetetuba",
+"bairro": "Zona Rural / Rodovia",
+"estado": "PA",
+"endereco": "Rodovia PA-151, nº 22123",
+"cep": "68440-000",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.8764, -1.7201]
+},
+"properties": {
+"nome": "ICE Francilândia",
+"cidade": "Abaetetuba",
+"bairro": "Francilândia",
+"estado": "PA",
+"endereco": "Tv. Natal, S/N — Francilândia",
+"cep": "68440-000",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Plantação / Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.8920, -1.7580]
+},
+"properties": {
+"nome": "ICE Comunidade Arapupuzinho",
+"cidade": "Abaetetuba",
+"bairro": "Comunidade Ribeirinha",
+"estado": "PA",
+"endereco": "Rio Arapupuzinho",
+"cep": "68440-000",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Comunidade / Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.8950, -1.7650]
+},
+"properties": {
+"nome": "ICE Comunidade de Acaraqui",
+"cidade": "Abaetetuba",
+"bairro": "Comunidade Ribeirinha",
+"estado": "PA",
+"endereco": "Rio Acaraqui",
+"cep": "68440-000",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Comunidade / Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.1254, -1.1685]
+},
+"properties": {
+"nome": "ICE Comunidade dos Anjos",
+"cidade": "Santo Antônio do Tauá",
+"bairro": "Vila de Anjos",
+"estado": "PA",
+"endereco": "Comunidade Vila de Anjos",
+"cep": "68786-000",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.5238, -0.7231]
+},
+"properties": {
+"nome": "ICE Soure — Ilha do Marajó",
+"cidade": "Soure",
+"bairro": "Centro",
+"estado": "PA",
+"endereco": "6ª Rua, 1096, Centro — Ilha do Marajó",
+"cep": "68870-000",
+"mear": "MEAR Microrregião do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.1235, -5.3498]
+},
+"properties": {
+"nome": "ICE Marabá",
+"cidade": "Marabá",
+"bairro": "Cidade Nova",
+"estado": "PA",
+"endereco": "Rua Cecília Meireles, Qd 17, Lt 16 e 17 — Cidade Nova",
+"cep": "68501-522",
+"mear": "MEAR Carajás no Sul do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.3512, -6.1045]
+},
+"properties": {
+"nome": "ICE Eldorado dos Carajás",
+"cidade": "Eldorado dos Carajás",
+"bairro": "Centro",
+"estado": "PA",
+"endereco": "Rua Boa Esperança, 53",
+"cep": "68524-000",
+"mear": "MEAR Carajás no Sul do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.7125, -5.1384]
+},
+"properties": {
+"nome": "ICE Cruzeiro do Sul",
+"cidade": "Itupiranga",
+"bairro": "Cruzeiro do Sul",
+"estado": "PA",
+"endereco": "Av. Principal, S/N — Distrito de Cruzeiro do Sul",
+"cep": "68580-000",
+"mear": "MEAR Carajás no Sul do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.3285, -5.1321]
+},
+"properties": {
+"nome": "ICE Vila Maravilha",
+"cidade": "Itupiranga",
+"bairro": "Vila Maravilha",
+"estado": "PA",
+"endereco": "Av. Principal, S/N",
+"cep": "68580-000",
+"mear": "MEAR Carajás no Sul do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-50.0245, -7.3118]
+},
+"properties": {
+"nome": "ICE Rio Maria",
+"cidade": "Rio Maria",
+"bairro": "Centro",
+"estado": "PA",
+"endereco": "Av. 6, Nr 439",
+"cep": "68530-000",
+"mear": "MEAR Carajás no Sul do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-48.5115, -6.4025]
+},
+"properties": {
+"nome": "ICE São Geraldo do Araguaia",
+"cidade": "São Geraldo do Araguaia",
+"bairro": "Centro",
+"estado": "PA",
+"endereco": "Rua das Laranjeiras, 153",
+"cep": "68570-000",
+"mear": "MEAR Carajás no Sul do Pará",
+"tipo": "Congregação Local"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [-49.9431, -7.0252]
+},
+"properties": {
+"nome": "ICE Xinguara",
+"cidade": "Xinguara",
+"bairro": "Centro",
+"estado": "PA",
+"endereco": "Avenida Xingu, 567",
+"cep": "68555-016",
+"mear": "MEAR Carajás no Sul do Pará",
+"tipo": "Congregação Local"
+}
+}
+]
+}

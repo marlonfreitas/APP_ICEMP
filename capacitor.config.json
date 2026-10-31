@@ -1,0 +1,10 @@
+{
+  "appId": "br.com.igrejacristaevangelica.app",
+  "appName": "ICEMP",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#F8FAFC"
+  }
+}

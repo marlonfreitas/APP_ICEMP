@@ -1,0 +1,25 @@
+# Node dependencies
+node_modules/
+.npm/
+
+# Android build directories and caches
+.gradle/
+android/.gradle/
+android/build/
+android/app/build/
+android/capacitor-cordova-android-plugins/build/
+android/local.properties
+android/.idea/
+android/*.iml
+
+# Compiled Android packages (gerados via gerar_apk.bat)
+*.apk
+*.aab
+
+# Local large reference PDFs
+INFORMATIVO OUTUBRO.pdf
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+*.log
