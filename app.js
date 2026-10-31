@@ -780,6 +780,53 @@ function closeHistoryScreen() {
   });
 }
 
+// Abrir Tela de História da ICEMP (Metropolitana de Palmas)
+function openIcempHistoryScreen() {
+  const screen = document.getElementById('screen-icemp-history');
+  if (!screen) return;
+  
+  screen.classList.add('active');
+  screen.scrollTop = 0;
+  
+  // Esconder temporariamente a tela ativa anterior
+  document.querySelectorAll('.app-screen:not(#screen-icemp-history)').forEach(s => {
+    if (s.classList.contains('active')) {
+      s.dataset.wasActive = 'true';
+      s.classList.remove('active');
+    }
+  });
+}
+
+// Fechar Tela de História da ICEMP e Retornar
+function closeIcempHistoryScreen() {
+  const screen = document.getElementById('screen-icemp-history');
+  if (screen) {
+    screen.classList.remove('active');
+  }
+  
+  document.querySelectorAll('.app-screen[data-was-active="true"]').forEach(s => {
+    s.classList.add('active');
+    delete s.dataset.wasActive;
+  });
+}
+
+// Rolar suavemente para uma seção dentro da tela de história da ICEMP
+function scrollToIcempHistorySection(sectionId) {
+  const target = document.getElementById(sectionId);
+  const container = document.getElementById('screen-icemp-history');
+  if (target && container) {
+    const topPos = target.offsetTop - 70;
+    container.scrollTo({ top: topPos, behavior: 'smooth' });
+  }
+}
+
+// Compartilhar História da ICEMP
+function shareIcempHistory() {
+  const text = `*História da Igreja Cristã Evangélica Metropolitana de Palmas (ICEMP)*\n\n"Tempos difíceis não são apenas permitidos por Deus — são dirigidos por Ele para que Sua vontade boa, perfeita e agradável prevaleça."\n\nConheça a trajetória da ICEMP, da garagem em 2009 à Av. Teotônio Segurado!\n\nConfira na íntegra:\nhttps://icemetropolitana.com.br/nossa-historia`;
+  const url = `https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`;
+  window.open(url, '_blank');
+}
+
 // Rolar suavemente para uma seção dentro da tela de história
 function scrollToHistorySection(sectionId) {
   const target = document.getElementById(sectionId);

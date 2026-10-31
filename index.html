@@ -908,6 +908,55 @@
                 </button>
               </section>
 
+              <!-- Card Destaque Oficial: A História da ICEMP (Após Dízimos e Ofertas) -->
+              <section onclick="openIcempHistoryScreen()"
+                class="group cursor-pointer p-4 rounded-3xl bg-gradient-to-br from-[#091d2c] via-iceb-navy to-[#184e77] text-white shadow-md border border-white/10 hover:shadow-lg active:scale-[0.99] transition-all duration-300 relative overflow-hidden">
+                <!-- Selo Decorativo de Fundo -->
+                <div class="absolute -right-6 -bottom-6 w-32 h-32 rounded-full bg-sky-400/10 blur-xl pointer-events-none"></div>
+                <div class="absolute top-2 right-2 w-24 h-24 opacity-10 pointer-events-none">
+                  <img src="assets/simbolo_pomba_azul.png" class="w-full h-full object-contain filter invert" alt="" />
+                </div>
+
+                <div class="flex items-center justify-between mb-2">
+                  <span
+                    class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/15 backdrop-blur-md text-[10px] font-extrabold uppercase tracking-wider text-sky-200 border border-white/20">
+                    <span class="material-symbols-outlined text-[14px] text-amber-300">church</span>
+                    <span>Desde 2009 • Palmas - TO</span>
+                  </span>
+                  <span
+                    class="text-[10px] font-bold text-sky-200 group-hover:text-white flex items-center gap-0.5 transition-colors">
+                    <span>Ver História</span>
+                    <span
+                      class="material-symbols-outlined text-[15px] group-hover:translate-x-1 transition-transform">arrow_forward</span>
+                  </span>
+                </div>
+
+                <h2
+                  class="text-base font-extrabold text-white leading-snug mt-1 group-hover:text-sky-200 transition-colors">
+                  A História da ICEMP:<br>
+                  <span class="text-sky-300 font-bold">Da Garagem ao Altar da Palavra</span>
+                </h2>
+
+                <p class="text-xs text-slate-200 mt-2 leading-relaxed">
+                  Nascida em 15 de fevereiro de 2009 na garagem pastoral, plantada na Av. Teotônio Segurado e sustentada pela soberana graça de Deus.
+                </p>
+
+                <div class="mt-3.5 pt-3 border-t border-white/15 flex items-center justify-between">
+                  <div class="flex items-center gap-2 text-[11px] text-slate-300">
+                    <span class="flex items-center gap-1 font-semibold text-white">
+                      <span class="material-symbols-outlined text-[14px] text-amber-300">diversity_1</span>
+                      Ovelha Gera Ovelha
+                    </span>
+                    <span>•</span>
+                    <span>Igreja Gera Igreja</span>
+                  </div>
+                  <span
+                    class="w-8 h-8 rounded-full bg-white text-iceb-navy flex items-center justify-center font-bold shadow-xs group-hover:scale-105 transition-transform">
+                    <span class="material-symbols-outlined text-[16px]">chevron_right</span>
+                  </span>
+                </div>
+              </section>
+
               <!-- Botão para ir para a aba de Eventos da ICEMP -->
               <button onclick="switchTab('events')"
                 class="w-full py-3.5 px-4 rounded-2xl bg-slate-100 hover:bg-iceb-blue-light text-iceb-navy hover:text-iceb-blue font-bold text-xs flex items-center justify-center gap-2 transition-all">
@@ -2042,6 +2091,397 @@
                 </section>
 
               </div>
+            </div>
+          </div>
+
+          <!-- ----------------------------------------
+               TELA DA HISTÓRIA DA ICEMP (METROPOLITANA DE PALMAS)
+               ---------------------------------------- -->
+          <div class="app-screen" id="screen-icemp-history">
+            <!-- Top Header Fixo com Margem Segura do Topo e Botão Voltar -->
+            <header
+              class="sticky top-0 inset-x-0 z-50 bg-white/95 backdrop-blur-xl border-b border-slate-200/80 shadow-[0_1px_8px_rgba(29,53,70,0.03)] pt-safe-top">
+              <div class="h-14 px-4 flex items-center justify-between">
+                <div class="flex items-center gap-2 min-w-0">
+                  <button onclick="closeIcempHistoryScreen()"
+                    class="w-9 h-9 -ml-1 rounded-full flex items-center justify-center text-iceb-navy hover:bg-sky-50 active:scale-90 transition-all"
+                    aria-label="Voltar">
+                    <span class="material-symbols-outlined text-[22px]">arrow_back_ios_new</span>
+                  </button>
+                  <div class="min-w-0">
+                    <h1 class="font-extrabold text-sm text-iceb-navy leading-none truncate">História da ICEMP</h1>
+                    <p class="text-[10px] text-sky-700 font-semibold mt-0.5 truncate">Metropolitana de Palmas • Desde 2009</p>
+                  </div>
+                </div>
+
+                <div class="flex items-center gap-1.5 flex-shrink-0">
+                  <button onclick="shareIcempHistory()"
+                    class="w-8 h-8 rounded-full bg-slate-100 hover:bg-emerald-50 text-slate-700 hover:text-emerald-700 flex items-center justify-center active:scale-95 transition-all"
+                    title="Compartilhar História">
+                    <span class="material-symbols-outlined text-[17px]">share</span>
+                  </button>
+                  <a href="https://icemetropolitana.com.br/nossa-historia" target="_blank" rel="noopener"
+                    class="px-2.5 py-1 rounded-xl bg-sky-50 text-sky-800 hover:bg-sky-100 font-bold text-[11px] flex items-center gap-1 border border-sky-200/80 active:scale-95 transition-all">
+                    <span>Site</span>
+                    <span class="material-symbols-outlined text-[13px]">open_in_new</span>
+                  </a>
+                </div>
+              </div>
+            </header>
+
+            <div class="p-4 flex flex-col gap-4 pb-28">
+
+              <!-- Hero Principal com Gradiente e Selo Oficial -->
+              <section
+                class="relative p-5 rounded-3xl bg-gradient-to-br from-[#071926] via-iceb-navy to-[#154a70] text-white shadow-lg overflow-hidden border border-white/10">
+                <!-- Efeitos de Fundo -->
+                <div class="absolute -right-8 -bottom-8 w-44 h-44 rounded-full bg-sky-400/10 blur-2xl pointer-events-none"></div>
+                <div class="absolute top-3 right-3 w-28 h-28 opacity-10 pointer-events-none">
+                  <img src="assets/simbolo_pomba_azul.png" class="w-full h-full object-contain filter invert" alt="" />
+                </div>
+
+                <div class="relative z-10">
+                  <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/15 backdrop-blur-md text-[10px] font-black uppercase tracking-wider text-sky-200 border border-white/20 mb-2.5">
+                    <span class="material-symbols-outlined text-[14px] text-amber-300">church</span>
+                    <span>Desde 15 de Fevereiro de 2009 • Palmas (TO)</span>
+                  </div>
+
+                  <h2 class="text-xl font-black text-white leading-tight">
+                    Uma História Escrita Pela Graça e Soberania de Deus
+                  </h2>
+
+                  <!-- Versículo / Frase Central em Destaque -->
+                  <div class="my-3 p-3 rounded-2xl bg-white/10 backdrop-blur-sm border-l-2 border-amber-400 text-xs text-amber-100 italic leading-relaxed">
+                    "Tempos difíceis não são apenas permitidos por Deus — são dirigidos por Ele para que Sua vontade boa, perfeita e agradável prevaleça."
+                  </div>
+
+                  <p class="text-xs text-slate-200 leading-relaxed">
+                    A trajetória da <strong>Igreja Cristã Evangélica Metropolitana (ICEMP)</strong> é marcada pelo cuidado providencial de Deus em meio a lutas, recomeços e milagres. O Senhor reuniu um pequeno grupo na sala pastoral e, a partir dele, plantou uma igreja acolhedora, comprometida com a fidelidade bíblica e centrada na glória de Cristo.
+                  </p>
+                </div>
+              </section>
+
+              <!-- Painel de Destaques Rápidos -->
+              <div class="grid grid-cols-2 gap-2.5">
+                <div class="p-3 rounded-2xl bg-white border border-slate-200/80 shadow-2xs flex items-center gap-2.5">
+                  <div class="w-9 h-9 rounded-xl bg-amber-50 text-amber-700 flex items-center justify-center flex-shrink-0">
+                    <span class="material-symbols-outlined text-[20px]">calendar_today</span>
+                  </div>
+                  <div class="min-w-0">
+                    <p class="text-[10px] text-slate-400 font-bold uppercase">Fundação</p>
+                    <p class="text-xs font-black text-iceb-navy truncate">15/02/2009</p>
+                  </div>
+                </div>
+
+                <div class="p-3 rounded-2xl bg-white border border-slate-200/80 shadow-2xs flex items-center gap-2.5">
+                  <div class="w-9 h-9 rounded-xl bg-sky-50 text-sky-700 flex items-center justify-center flex-shrink-0">
+                    <span class="material-symbols-outlined text-[20px]">location_on</span>
+                  </div>
+                  <div class="min-w-0">
+                    <p class="text-[10px] text-slate-400 font-bold uppercase">Localização</p>
+                    <p class="text-xs font-black text-iceb-navy truncate">Av. Teotônio Segurado</p>
+                  </div>
+                </div>
+
+                <div class="p-3 rounded-2xl bg-white border border-slate-200/80 shadow-2xs flex items-center gap-2.5">
+                  <div class="w-9 h-9 rounded-xl bg-emerald-50 text-emerald-700 flex items-center justify-center flex-shrink-0">
+                    <span class="material-symbols-outlined text-[20px]">account_balance</span>
+                  </div>
+                  <div class="min-w-0">
+                    <p class="text-[10px] text-slate-400 font-bold uppercase">Igreja-Mãe</p>
+                    <p class="text-xs font-black text-iceb-navy truncate">ICE Turvânia (GO)</p>
+                  </div>
+                </div>
+
+                <div class="p-3 rounded-2xl bg-white border border-slate-200/80 shadow-2xs flex items-center gap-2.5">
+                  <div class="w-9 h-9 rounded-xl bg-purple-50 text-purple-700 flex items-center justify-center flex-shrink-0">
+                    <span class="material-symbols-outlined text-[20px]">diversity_1</span>
+                  </div>
+                  <div class="min-w-0">
+                    <p class="text-[10px] text-slate-400 font-bold uppercase">Lema Bíblico</p>
+                    <p class="text-xs font-black text-iceb-navy truncate">Igreja Gera Igreja</p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Chips de Navegação Rápida entre Capítulos -->
+              <div class="flex items-center gap-2 overflow-x-auto no-scrollbar py-1">
+                <button onclick="scrollToIcempHistorySection('icemp-cap-01')"
+                  class="px-3 py-1.5 rounded-full bg-slate-100 hover:bg-sky-100 text-slate-700 hover:text-sky-900 text-xs font-bold whitespace-nowrap transition-all">
+                  1. A Garagem (2009)
+                </button>
+                <button onclick="scrollToIcempHistorySection('icemp-cap-02')"
+                  class="px-3 py-1.5 rounded-full bg-slate-100 hover:bg-sky-100 text-slate-700 hover:text-sky-900 text-xs font-bold whitespace-nowrap transition-all">
+                  2. 1º Salão & Turvânia
+                </button>
+                <button onclick="scrollToIcempHistorySection('icemp-cap-03')"
+                  class="px-3 py-1.5 rounded-full bg-slate-100 hover:bg-sky-100 text-slate-700 hover:text-sky-900 text-xs font-bold whitespace-nowrap transition-all">
+                  3. Teotônio Segurado
+                </button>
+                <button onclick="scrollToIcempHistorySection('icemp-cap-04')"
+                  class="px-3 py-1.5 rounded-full bg-slate-100 hover:bg-sky-100 text-slate-700 hover:text-sky-900 text-xs font-bold whitespace-nowrap transition-all">
+                  4. SETECEB & Teologia
+                </button>
+                <button onclick="scrollToIcempHistorySection('icemp-cap-06')"
+                  class="px-3 py-1.5 rounded-full bg-slate-100 hover:bg-sky-100 text-slate-700 hover:text-sky-900 text-xs font-bold whitespace-nowrap transition-all">
+                  5. Nova Liderança (2019)
+                </button>
+                <button onclick="scrollToIcempHistorySection('icemp-cap-08')"
+                  class="px-3 py-1.5 rounded-full bg-slate-100 hover:bg-sky-100 text-slate-700 hover:text-sky-900 text-xs font-bold whitespace-nowrap transition-all">
+                  6. Confissão de Fé
+                </button>
+              </div>
+
+              <!-- CAPÍTULO 1: O Começo Marcado Pela Graça (2009) -->
+              <section id="icemp-cap-01" class="p-4 rounded-3xl bg-white border border-slate-200/80 shadow-xs space-y-3">
+                <div class="flex items-center justify-between">
+                  <span class="px-2.5 py-0.5 rounded-full bg-amber-50 text-amber-800 text-[9px] font-extrabold uppercase tracking-wider border border-amber-200/60">
+                    Capítulo 01 • 15 de Fevereiro de 2009
+                  </span>
+                  <span class="text-[10px] text-slate-400 font-bold">Origens</span>
+                </div>
+
+                <h3 class="font-extrabold text-sm text-iceb-navy leading-snug">
+                  Um Começo Marcado Pela Graça: A Igreja da Garagem
+                </h3>
+
+                <p class="text-xs text-slate-600 leading-relaxed">
+                  A ICEMP nasceu em um contexto de mudanças e dores: um pastor que precisou deixar sua congregação em outro estado para cuidar da família, irmãos machucados e sem rumo aparente. No dia <strong>15 de fevereiro de 2009</strong>, alguns irmãos se reuniram na sala do <strong>Pr. Otoniel Bueno</strong>. Ali, Deus transformou desânimo em esperança viva, e o grupo passou a se reunir na garagem da casa pastoral.
+                </p>
+
+                <div class="p-3 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
+                  <div class="flex items-start gap-2.5 text-xs text-slate-700">
+                    <span class="material-symbols-outlined text-emerald-600 text-[18px] flex-shrink-0 mt-0.5">garage</span>
+                    <div>
+                      <strong class="text-iceb-navy">Comunhão e Conversões:</strong> Nos primeiros cultos na garagem, a Palavra era pregada com fidelidade e simplicidade bíblica. Logo no primeiro domingo já houve conversão, e a garagem rapidamente ficou pequena para tanta gente.
+                    </div>
+                  </div>
+                  <div class="flex items-start gap-2.5 text-xs text-slate-700 pt-1.5 border-t border-slate-200/60">
+                    <span class="material-symbols-outlined text-iceb-blue text-[18px] flex-shrink-0 mt-0.5">storefront</span>
+                    <div>
+                      <strong class="text-iceb-navy">Evangelismo no Comércio:</strong> Durante a semana, o pastor visitava comércios locais em Palmas, compartilhando breves mensagens e orando com os funcionários antes da abertura das lojas. O testemunho e o cuidado mútuo atraíram dezenas de famílias.
+                    </div>
+                  </div>
+                </div>
+              </section>
+
+              <!-- CAPÍTULO 2: Do Improviso ao 1º Salão e a Raiz Denominacional -->
+              <section id="icemp-cap-02" class="p-4 rounded-3xl bg-white border border-slate-200/80 shadow-xs space-y-3">
+                <div class="flex items-center justify-between">
+                  <span class="px-2.5 py-0.5 rounded-full bg-sky-50 text-sky-800 text-[9px] font-extrabold uppercase tracking-wider border border-sky-200/60">
+                    Capítulo 02 • 2010
+                  </span>
+                  <span class="text-[10px] text-slate-400 font-bold">Estrutura & Raiz</span>
+                </div>
+
+                <h3 class="font-extrabold text-sm text-iceb-navy leading-snug">
+                  Do Improviso ao Primeiro Salão e a Cobertura da Igreja-Mãe
+                </h3>
+
+                <p class="text-xs text-slate-600 leading-relaxed">
+                  Com a chegada do período chuvoso em Palmas, a garagem já não comportava mais os membros. Em <strong>2010</strong>, Deus providenciou o primeiro salão. Toda a membresia se mobilizou: os instrumentos foram adquiridos com venda de marmitex e galinhadas, e os membros faziam alegres mutirões para limpar, pintar e organizar o templo.
+                </p>
+
+                <!-- Destaque Igreja com Raiz -->
+                <div class="p-3.5 rounded-2xl bg-gradient-to-r from-sky-50 to-blue-50 border border-sky-200 space-y-1.5">
+                  <div class="flex items-center gap-2 text-sky-950 font-black text-xs">
+                    <span class="material-symbols-outlined text-sky-600 text-[18px]">verified</span>
+                    <span>Igreja com Raiz: ICE de Turvânia (GO)</span>
+                  </div>
+                  <p class="text-[11px] text-sky-900 leading-relaxed">
+                    A ICEMP nunca desejou ser uma igreja isolada ou independente. Sua identidade confessional está firmemente ancorada na tradição centenária da <strong>Igreja Cristã Evangélica do Brasil (ICEB)</strong>. A igreja-mãe da Metropolitana é a <strong>ICE de Turvânia (GO)</strong>, sob a honrada liderança do <strong>Pr. Antônio Ferreira Bueno (Totó)</strong>, que assumiu a missão de acompanhar, reconhecer e apresentar a congregação à denominação nacional.
+                  </p>
+                </div>
+              </section>
+
+              <!-- CAPÍTULO 3: O Marco da Av. Teotônio Segurado (2012) -->
+              <section id="icemp-cap-03" class="p-4 rounded-3xl bg-white border border-slate-200/80 shadow-xs space-y-3">
+                <div class="flex items-center justify-between">
+                  <span class="px-2.5 py-0.5 rounded-full bg-emerald-50 text-emerald-800 text-[9px] font-extrabold uppercase tracking-wider border border-emerald-200/60">
+                    Capítulo 03 • 22 de Janeiro de 2012
+                  </span>
+                  <span class="text-[10px] text-slate-400 font-bold">Consolidação</span>
+                </div>
+
+                <h3 class="font-extrabold text-sm text-iceb-navy leading-snug">
+                  O Marco da Avenida Joaquim Teotônio Segurado
+                </h3>
+
+                <p class="text-xs text-slate-600 leading-relaxed">
+                  Após cerca de dois anos no primeiro salão, Deus abriu as portas para um ponto definitivo e estratégico em Palmas: a <strong>Avenida Joaquim Teotônio Segurado (Q. 201 Sul)</strong>. Engenheiros, eletricistas, mestres de obras e membros da congregação doaram seus serviços com esmero, sustentados pela fidelidade nos dízimos e ofertas generosas.
+                </p>
+
+                <div class="p-3 rounded-2xl bg-emerald-50/70 border border-emerald-200 text-xs text-emerald-950 flex items-center justify-between">
+                  <div class="flex items-center gap-2">
+                    <span class="material-symbols-outlined text-emerald-600 text-[20px]">celebration</span>
+                    <div>
+                      <p class="font-black text-xs">1º Culto no Novo Templo</p>
+                      <p class="text-[10px] text-emerald-800">22 de Janeiro de 2012 • Avenida Teotônio Segurado</p>
+                    </div>
+                  </div>
+                  <span class="px-2 py-1 rounded-xl bg-white text-emerald-800 font-black text-[10px] border border-emerald-300">
+                    Histórico
+                  </span>
+                </div>
+              </section>
+
+              <!-- CAPÍTULO 4: Crescimento Espiritual: SETECEB e Conferência "Crer e Ser" -->
+              <section id="icemp-cap-04" class="p-4 rounded-3xl bg-white border border-slate-200/80 shadow-xs space-y-3">
+                <div class="flex items-center justify-between">
+                  <span class="px-2.5 py-0.5 rounded-full bg-purple-50 text-purple-800 text-[9px] font-extrabold uppercase tracking-wider border border-purple-200/60">
+                    Capítulo 04 • Ensino Bíblico
+                  </span>
+                  <span class="text-[10px] text-slate-400 font-bold">Maturidade</span>
+                </div>
+
+                <h3 class="font-extrabold text-sm text-iceb-navy leading-snug">
+                  Crescimento Teológico: SETECEB, CTM e "Crer e Ser"
+                </h3>
+
+                <p class="text-xs text-slate-600 leading-relaxed">
+                  Para que a igreja amadurecesse com alicerces inabaláveis, o pastorado incentivou a formação teológica trazendo para Palmas o <strong>CTM (Curso Teológico por Módulos)</strong>, vinculado ao renomado <strong>SETECEB</strong> (Seminário Teológico Cristão Evangélico do Brasil, sediado em Anápolis/GO).
+                </p>
+
+                <div class="space-y-2 text-xs">
+                  <div class="p-2.5 rounded-xl bg-slate-50 border border-slate-200 flex items-start gap-2">
+                    <span class="material-symbols-outlined text-iceb-blue text-[18px] flex-shrink-0 mt-0.5">menu_book</span>
+                    <div>
+                      <strong class="text-iceb-navy">Pregação Expositiva & Sã Doutrina:</strong> A ICEMP consolidou um amor profundo pela exegese fiel das Escrituras, pela Escola Bíblica Dominical e pela edificação doutrinária contínua.
+                    </div>
+                  </div>
+                  <div class="p-2.5 rounded-xl bg-slate-50 border border-slate-200 flex items-start gap-2">
+                    <span class="material-symbols-outlined text-purple-600 text-[18px] flex-shrink-0 mt-0.5">campaign</span>
+                    <div>
+                      <strong class="text-iceb-navy">Conferência Teológica "Crer e Ser":</strong> Deste mover nasceu a tradicional conferência anual da igreja, capacitando líderes e membros para impactarem a sociedade com integridade cristocêntrica.
+                    </div>
+                  </div>
+                </div>
+              </section>
+
+              <!-- CAPÍTULO 5: Uma Igreja que Gera Igrejas -->
+              <section id="icemp-cap-05" class="p-4 rounded-3xl bg-gradient-to-r from-sky-900 to-iceb-navy text-white shadow-xs space-y-2.5">
+                <div class="flex items-center gap-2">
+                  <span class="material-symbols-outlined text-sky-400 text-[20px]">hub</span>
+                  <h3 class="font-black text-sm">O Princípio Missionário da ICEMP</h3>
+                </div>
+                <blockquote class="text-xs font-bold text-sky-200 italic">
+                  "Ovelha gera ovelha • Igreja gera igreja."
+                </blockquote>
+                <p class="text-xs text-slate-200 leading-relaxed">
+                  O contentamento da comunidade nunca esteve apenas em templos cheios, mas em ver a expansão do Reino de Deus. Mesmo ainda jovem, a Metropolitana cooperou fraternalmente com outras congregações no Tocantins e levantou novas frentes missionárias nos lares através dos Grupos de Crescimento (GCs).
+                </p>
+              </section>
+
+              <!-- CAPÍTULO 6: Transição Pastoral com Honra e Unidade (2019) -->
+              <section id="icemp-cap-06" class="p-4 rounded-3xl bg-white border border-slate-200/80 shadow-xs space-y-3">
+                <div class="flex items-center justify-between">
+                  <span class="px-2.5 py-0.5 rounded-full bg-amber-50 text-amber-800 text-[9px] font-extrabold uppercase tracking-wider border border-amber-200/60">
+                    Capítulo 05 • 2019
+                  </span>
+                  <span class="text-[10px] text-slate-400 font-bold">Sucessão</span>
+                </div>
+
+                <h3 class="font-extrabold text-sm text-iceb-navy leading-snug">
+                  Transição Pastoral Exemplar: Unidade, Prudência e Continuidade
+                </h3>
+
+                <p class="text-xs text-slate-600 leading-relaxed">
+                  Por cerca de 11 anos, o <strong>Pr. Otoniel Bueno</strong> liderou a ICEMP com dedicação exemplar e integridade, submetendo seu ministério à avaliação bienal da assembleia. Em 2019, entendendo o chamado do Senhor para retornar à igreja-mãe em Turvânia (GO), celebrou seu culto de despedida em <strong>4 de agosto de 2019</strong>.
+                </p>
+
+                <!-- Card Pr. Ubiracy Lucas Barbosa -->
+                <div class="p-3 rounded-2xl bg-slate-50 border border-slate-200 flex items-center gap-3">
+                  <img src="assets/PR_Ubiracy_lucas.png" alt="Pr. Ubiracy Lucas Barbosa"
+                    class="w-14 h-14 rounded-2xl object-cover border-2 border-iceb-blue/30 flex-shrink-0 shadow-2xs" />
+                  <div class="min-w-0">
+                    <span class="px-2 py-0.5 rounded-full bg-iceb-blue-light text-iceb-blue text-[9px] font-black uppercase">
+                      Pastor Titular
+                    </span>
+                    <h4 class="font-black text-xs text-iceb-navy mt-1 truncate">Pr. Ubiracy Lucas Barbosa</h4>
+                    <p class="text-[10px] text-slate-500 leading-tight mt-0.5">
+                      Eleito com ampla unanimidade em assembleia, dando continuidade ao pastoreio fiel e à exposição bíblica.
+                    </p>
+                  </div>
+                </div>
+              </section>
+
+              <!-- CAPÍTULO 7: Desafios Recentes e o Sustento Soberano de Deus -->
+              <section id="icemp-cap-07" class="p-4 rounded-3xl bg-white border border-slate-200/80 shadow-xs space-y-3">
+                <div class="flex items-center justify-between">
+                  <span class="px-2.5 py-0.5 rounded-full bg-rose-50 text-rose-800 text-[9px] font-extrabold uppercase tracking-wider border border-rose-200/60">
+                    Capítulo 06 • Pandemia & Cuidado
+                  </span>
+                  <span class="text-[10px] text-slate-400 font-bold">Perseverança</span>
+                </div>
+
+                <h3 class="font-extrabold text-sm text-iceb-navy leading-snug">
+                  A Pandemia e a Fidelidade Constante do Senhor
+                </h3>
+
+                <p class="text-xs text-slate-600 leading-relaxed">
+                  O início do ministério do Pr. Ubiracy coincidiu com o distanciamento social da pandemia de COVID-19. Mesmo diante das restrições, a igreja não parou: realizou cultos transmitidos online, celebrações ao ar livre no estacionamento, acompanhamento pastoral por telefone e uma vigorosa rede de auxílio mútuo e socorro às famílias necessitadas.
+                </p>
+              </section>
+
+              <!-- CAPÍTULO 8: Nossa Identidade e Confissão de Fé -->
+              <section id="icemp-cap-08" class="p-4 rounded-3xl bg-white border border-slate-200/80 shadow-xs space-y-3">
+                <div class="flex items-center justify-between">
+                  <span class="px-2.5 py-0.5 rounded-full bg-sky-50 text-sky-800 text-[9px] font-extrabold uppercase tracking-wider border border-sky-200/60">
+                    Capítulo 07 • Doutrina & Fé
+                  </span>
+                  <span class="text-[10px] text-slate-400 font-bold">Confissão</span>
+                </div>
+
+                <h3 class="font-extrabold text-sm text-iceb-navy leading-snug">
+                  Nossa Identidade e Pilares da Fé Cristã
+                </h3>
+
+                <div class="space-y-2 text-xs text-slate-700">
+                  <div class="flex items-start gap-2 p-2 rounded-xl bg-slate-50 border border-slate-200/60">
+                    <span class="material-symbols-outlined text-iceb-blue text-[17px] flex-shrink-0 mt-0.5">check_circle</span>
+                    <div><strong>Deus Trino:</strong> Cremos em um só Deus, eternamente subsistente em três Pessoas — Pai, Filho e Espírito Santo.</div>
+                  </div>
+                  <div class="flex items-start gap-2 p-2 rounded-xl bg-slate-50 border border-slate-200/60">
+                    <span class="material-symbols-outlined text-iceb-blue text-[17px] flex-shrink-0 mt-0.5">check_circle</span>
+                    <div><strong>As Escrituras:</strong> Cremos na inspiração divina, total inerrância e suficiente autoridade da Bíblia Sagrada.</div>
+                  </div>
+                  <div class="flex items-start gap-2 p-2 rounded-xl bg-slate-50 border border-slate-200/60">
+                    <span class="material-symbols-outlined text-iceb-blue text-[17px] flex-shrink-0 mt-0.5">check_circle</span>
+                    <div><strong>Graça e Salvação:</strong> A salvação é unicamente pela graça (<em>Sola Gratia</em>), mediante a fé redentora no sacrifício de Jesus Cristo.</div>
+                  </div>
+                  <div class="flex items-start gap-2 p-2 rounded-xl bg-slate-50 border border-slate-200/60">
+                    <span class="material-symbols-outlined text-iceb-blue text-[17px] flex-shrink-0 mt-0.5">check_circle</span>
+                    <div><strong>Ordenanças do Senhor:</strong> Praticamos com temor o Batismo e a celebração mensal da Santa Ceia.</div>
+                  </div>
+                  <div class="flex items-start gap-2 p-2 rounded-xl bg-slate-50 border border-slate-200/60">
+                    <span class="material-symbols-outlined text-iceb-blue text-[17px] flex-shrink-0 mt-0.5">check_circle</span>
+                    <div><strong>Culto Cristocêntrico:</strong> Cultos centrados na Palavra, sem modismos ou conveniências humanas, honrando o Senhor da Igreja até que Ele volte.</div>
+                  </div>
+                </div>
+              </section>
+
+              <!-- Conclusão e Rodapé de Ações -->
+              <section class="p-5 rounded-3xl bg-gradient-to-br from-iceb-navy via-slate-900 to-iceb-navy text-white text-center flex flex-col items-center shadow-md">
+                <span class="w-12 h-12 rounded-2xl bg-white/10 flex items-center justify-center mb-2.5">
+                  <img src="assets/simbolo_pomba_azul.png" class="w-8 h-8 object-contain filter invert" alt="ICEMP" />
+                </span>
+                <h3 class="font-black text-sm">Uma Igreja que Pertence ao Senhor</h3>
+                <p class="text-xs text-slate-200 mt-1 max-w-xs leading-relaxed">
+                  Conj. 01 - Q. 201 Sul, Av. Joaquim Teotônio Segurado, Lote 04 — Palmas (TO).
+                </p>
+                <div class="mt-3.5 flex items-center gap-2 flex-wrap justify-center">
+                  <a href="https://icemetropolitana.com.br/" target="_blank" rel="noopener"
+                    class="px-4 py-2.5 rounded-xl bg-white text-iceb-navy hover:text-iceb-blue font-extrabold text-xs shadow-xs active:scale-95 transition-all flex items-center gap-1.5">
+                    <span class="material-symbols-outlined text-[16px]">public</span>
+                    <span>Visitar Site Oficial</span>
+                  </a>
+                  <button onclick="closeIcempHistoryScreen()"
+                    class="px-4 py-2.5 rounded-xl bg-white/15 hover:bg-white/25 text-white font-bold text-xs border border-white/20 active:scale-95 transition-all">
+                    Voltar para a ICEMP
+                  </button>
+                </div>
+              </section>
+
             </div>
           </div>
 
